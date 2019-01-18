@@ -8,13 +8,13 @@ import 'package:timeline/main_menu/main_menu.dart';
 /// The app is wrapped by a [BlocProvider]. This allows the child widgets
 /// to access other components throughout the hierarchy without the need
 /// to pass those references around.
-class TimelineApp extends StatelessWidget {
+class ScheduleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
     return BlocProvider(
       child: MaterialApp(
-        title: 'History & Future of Everything',
+        title: 'IT-UNIVERSITY OF COPENHAGEN SCHEDULE',
         theme: ThemeData(
             backgroundColor: background, scaffoldBackgroundColor: background),
         home: MenuPage(),
@@ -31,4 +31,4 @@ class MenuPage extends StatelessWidget {
   }
 }
 
-void main() => runApp(TimelineApp());
+void main() => runApp(ScheduleApp());

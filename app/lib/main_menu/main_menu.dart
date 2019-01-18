@@ -1,23 +1,20 @@
 import "dart:async";
-import "dart:io";
 
 import 'package:flutter/cupertino.dart';
 import "package:flutter/material.dart";
+import 'dart:developer';
 import "package:flutter/widgets.dart";
-import "package:share/share.dart";
 import 'package:timeline/bloc_provider.dart';
 import 'package:timeline/main_menu/collapsible.dart';
-
 import "package:timeline/main_menu/menu_data.dart";
-import "package:timeline/main_menu/search_widget.dart";
 import "package:timeline/main_menu/main_menu_section.dart";
 import "package:timeline/main_menu/about_page.dart";
-import "package:timeline/main_menu/favorites_page.dart";
 import 'package:timeline/main_menu/thumbnail_detail_widget.dart';
 import "package:timeline/search_manager.dart";
 import "package:timeline/colors.dart";
 import "package:timeline/timeline/timeline_entry.dart";
 import 'package:timeline/timeline/timeline_widget.dart';
+import 'package:timeline/ui/reservations_list.dart';
 
 /// The Main Page of the Timeline App. 
 /// 
@@ -73,10 +70,11 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
   /// where to scroll to.
   navigateToTimeline(MenuItemData item) {
     _pauseSection();
+    item.getLabel();
     Navigator.of(context)
         .push(MaterialPageRoute(
           builder: (BuildContext context) =>
-              TimelineWidget(item, BlocProvider.getTimeline(context)),
+              ReservationList(label: item),
         ))
         .then(_restoreSection);
   }
@@ -183,55 +181,8 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
         ..add(Container(
           margin: EdgeInsets.only(top: 40.0, bottom: 22),
           height: 1.0,
-          color: const Color.fromRGBO(151, 151, 151, 0.29),
+          color: const Color.fromRGBO(255, 255, 255, 0.29),
         ))
-        ..add(FlatButton(
-            onPressed: () {
-              _pauseSection();
-              Navigator.of(context)
-                  .push(MaterialPageRoute(
-                      builder: (BuildContext context) => FavoritesPage()))
-                  .then(_restoreSection);
-            },
-            color: Colors.transparent,
-            child:
-                Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
-              Container(
-                margin: EdgeInsets.only(right: 15.5),
-                child: Image.asset("assets/heart_icon.png",
-                    height: 20.0,
-                    width: 20.0,
-                    color: Colors.black.withOpacity(0.65)),
-              ),
-              Text(
-                "Your Favorites",
-                style: TextStyle(
-                    fontSize: 20.0,
-                    fontFamily: "RobotoMedium",
-                    color: Colors.black.withOpacity(0.65)),
-              )
-            ])))
-        ..add(FlatButton(
-            onPressed: () => Share.share(
-                "Check out The History of Everything! " + (Platform.isAndroid ? "https://play.google.com/store/apps/details?id=com.twodimensions.timeline" : "itms://itunes.apple.com/us/app/apple-store/id1441257460?mt=8")),
-            color: Colors.transparent,
-            child:
-                Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
-              Container(
-                margin: EdgeInsets.only(right: 15.5),
-                child: Image.asset("assets/share_icon.png",
-                    height: 20.0,
-                    width: 20.0,
-                    color: Colors.black.withOpacity(0.65)),
-              ),
-              Text(
-                "Share",
-                style: TextStyle(
-                    fontSize: 20.0,
-                    fontFamily: "RobotoMedium",
-                    color: Colors.black.withOpacity(0.65)),
-              )
-            ])))
         ..add(Padding(
           padding: const EdgeInsets.only(bottom: 30.0),
           child: FlatButton(
@@ -250,14 +201,14 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                   child: Image.asset("assets/info_icon.png",
                       height: 20.0,
                       width: 20.0,
-                      color: Colors.black.withOpacity(0.65)),
+                      color: Colors.white.withOpacity(0.9)),
                 ),
                 Text(
                   "About",
                   style: TextStyle(
                       fontSize: 20.0,
                       fontFamily: "RobotoMedium",
-                      color: Colors.black.withOpacity(0.65)),
+                      color: Colors.white.withOpacity(0.9)),
                 )
               ])),
         ));
@@ -289,21 +240,18 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                                             top: 20.0, bottom: 12.0),
                                         child: Opacity(
                                             opacity: 0.85,
-                                            child: Image.asset(
-                                                "assets/twoDimensions_logo.png",
-                                                height: 10.0))),
-                                    Text("The History of Everything",
+                                            child: Text("IT-UNIVERSITY OF COPENHAGEN",
+                                            style: TextStyle(
+                                              color: Colors.white70,
+                                              fontFamily: "Arial"
+                                            ),))),
+                                    Text("Find your schedule",
                                         textAlign: TextAlign.left,
                                         style: TextStyle(
-                                            color: darkText.withOpacity(
-                                                darkText.opacity * 0.75),
+                                            color: Colors.white70,
                                             fontSize: 34.0,
                                             fontFamily: "RobotoMedium"))
                                   ])),
-                          Padding(
-                              padding: EdgeInsets.only(top: 22.0),
-                              child: SearchWidget(
-                                  _searchFocusNode, _searchTextController))
                         ] +
                         tail)),
           )),

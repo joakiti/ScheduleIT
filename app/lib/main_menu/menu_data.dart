@@ -23,6 +23,9 @@ class MenuItemData {
   double padTop = 0.0;
   double padBottom = 0.0;
 
+  getLabel() {
+    return label;
+  }
   MenuItemData();
   /// When initializing this object from a [TimelineEntry], fill in the
   /// fields according to the [entry] provided. The entry in fact specifies
