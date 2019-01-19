@@ -246,8 +246,8 @@ class MenuVignetteRenderObject extends RenderBox {
       /// and cover it with a linear gradient.
       double gradientFade = 1.0 - opacity;
       List<ui.Color> colors = <ui.Color>[
-        gradientColor.withOpacity(gradientFade),
-        gradientColor.withOpacity(min(1.0, gradientFade + 0.9))
+        gradientColor.withOpacity(0.1),
+        gradientColor.withOpacity(0.8)
       ];
       List<double> stops = <double>[0.0, 1.0];
 

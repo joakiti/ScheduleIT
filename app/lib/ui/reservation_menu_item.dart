@@ -100,6 +100,16 @@ class _SectionState extends State<MenuSection>
     }
   }
 
+  Widget buildRoomBubble(String room) {
+    return Container(
+        padding: EdgeInsets.symmetric(horizontal: 10.0),
+        margin: EdgeInsets.only(left: 5, right: 5),
+        decoration: BoxDecoration(
+            color: Theme.of(context).accentColor,
+            borderRadius: BorderRadius.circular(5.0)),
+        child: Text(room));
+  }
+
   /// This method wraps the whole widget in a [GestureDetector] to handle taps appropriately.
   ///
   /// A custom [BoxDecoration] is used to render the rounded rectangle on the screen, and a
@@ -112,15 +122,10 @@ class _SectionState extends State<MenuSection>
   @override
   Widget build(BuildContext context) {
     TextStyle style = TextStyle(
-        color: widget
-            .accentColor,
-        fontSize: 20.0,
-        fontFamily:
-        "RobotoMedium",
-        );
-    List<String> formattedActivity = widget.reservation.studyActivity.split(".");
-    String onlyCourseName = formattedActivity[0];
-    String courseCode = formattedActivity[1].split(",")[0];
+      color: widget.accentColor,
+      fontSize: 20.0,
+      fontFamily: "RobotoMedium",
+    );
     return GestureDetector(
         onTap: _toggleExpand,
         child: Container(
@@ -136,14 +141,28 @@ class _SectionState extends State<MenuSection>
                         alignment: Alignment.center,
                         padding: EdgeInsets.only(
                             left: 5, right: 5, top: 5, bottom: 5),
-                        child: Center(child: Text(onlyCourseName, style: style, textAlign: TextAlign.center)),
+                        child: Center(
+                            child: Text(widget.reservation.courseName,
+                                style: style, textAlign: TextAlign.center)),
                       ),
                       Container(
                         alignment: Alignment.center,
                         padding: EdgeInsets.only(
                             left: 5, right: 5, top: 5, bottom: 5),
-                        child: Center(child: Text(courseCode, style: style, textAlign: TextAlign.center)),
+                        child: Center(
+                            child: Text(
+                                "${widget.reservation.lectureType} from ${widget.reservation.startTime} to ${widget.reservation.endTime}",
+                                style: style,
+                                textAlign: TextAlign.center)),
                       ),
+                      Row(
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: widget.reservation.room
+                              .split(", ")
+                              .map<Widget>(
+                                  (String room) => buildRoomBubble(room))
+                              .toList()),
                       Container(
                           height: 55.0,
                           alignment: Alignment.bottomCenter,

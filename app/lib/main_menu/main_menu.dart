@@ -181,7 +181,7 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
         ..add(Container(
           margin: EdgeInsets.only(top: 40.0, bottom: 22),
           height: 1.0,
-          color: const Color.fromRGBO(255, 255, 255, 0.29),
+          color: const Color.fromRGBO(255, 255, 255, 0.1),
         ))
         ..add(Padding(
           padding: const EdgeInsets.only(bottom: 30.0),
