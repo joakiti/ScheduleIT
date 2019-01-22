@@ -399,6 +399,9 @@ class Timeline {
         if (map.containsKey("label")) {
           timelineEntry.label = map["label"] as String;
         }
+        if (map.containsKey("path")) {
+          timelineEntry.path = map["path"] as String;
+        }
 
         /// Some entries will also have an id 
         if (map.containsKey("id")) {

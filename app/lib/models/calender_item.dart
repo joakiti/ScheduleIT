@@ -24,36 +24,62 @@ class ItemModel {
 
 class Reservation {
   String _id;
-  String _startDate;
-  String _starttime;
+  DateTime _startDate;
+  String _startTime;
+  String _endTime;
+
+  String get endTime => _endTime;
   String _studyActivity;
   String _namePerson;
   String _room;
   String _programme;
   String _courseType;
+  String _courseName;
+  String _courseCode;
+  String _lectureType;
+
+  String get lectureType => _lectureType;
+
+  String get id => _id;
+  DateTime _endDate;
 
 
 
   Reservation(reservation) {
     _id = reservation['id'];
-    _startDate = reservation['startdate'];
-    _starttime = reservation['starttime'];
+    _startDate = DateTime.parse(reservation['startdate']);
+    _startTime = reservation['starttime'];
+    _endDate = DateTime.parse(reservation['enddate']);
+    _endTime = reservation['endtime'];
     _studyActivity = reservation['columns'][0];
     _namePerson = reservation['columns'][1];
     _room = reservation['columns'][2];
     _programme = reservation['columns'][3];
     _courseType = reservation['columns'][4];
+    _lectureType = reservation['columns'][5];
+    List<String> formattedActivity = _studyActivity.split(".");
+    _courseName = formattedActivity[0];
+    _courseCode = formattedActivity[1].split(",")[0];
 
   }
 
-  String get id => _id;
-  String get starttime => _starttime;
-  String get namePerson => _namePerson;
+  DateTime get startDate => _startDate;
+
+  String get startTime => _startTime;
+
   String get studyActivity => _studyActivity;
-  String get startDate => _startDate;
+
+  String get namePerson => _namePerson;
+
   String get room => _room;
+
   String get programme => _programme;
+
   String get courseType => _courseType;
 
+  String get courseName => _courseName;
 
+  String get courseCode => _courseCode;
+
+  DateTime get endDate => _endDate;
 }
