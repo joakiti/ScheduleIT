@@ -1,4 +1,4 @@
-package com.twodimensions.timeline;
+package release.itu.schedule;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
