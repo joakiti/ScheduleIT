@@ -229,13 +229,13 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                                             opacity: 0.85,
                                             child: Text("IT-UNIVERSITY OF COPENHAGEN",
                                             style: TextStyle(
-                                              color: Colors.white70,
+                                              color: Colors.white,
                                               fontFamily: "Arial"
                                             ),))),
                                     Text("Find your schedule",
                                         textAlign: TextAlign.left,
                                         style: TextStyle(
-                                            color: Colors.white70,
+                                            color: Colors.white,
                                             fontSize: 34.0,
                                             fontFamily: "RobotoMedium"))
                                   ])),

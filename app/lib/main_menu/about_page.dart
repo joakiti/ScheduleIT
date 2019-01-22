@@ -72,7 +72,7 @@ class AboutPage extends StatelessWidget {
                               height: 1.5),
                           children: [
                         TextSpan(
-                          text: "Theres alot of hard work in keeping the app updated for everybody to use, so i encourage everyone capable to help out at"
+                          text: "Theres alot of hard work in keeping the app updated for everybody to use, so i encourage everyone capable to help out at "
                         ),
                         TextSpan(
                           text: "github",
@@ -81,7 +81,10 @@ class AboutPage extends StatelessWidget {
                                 decoration: TextDecoration.underline),
                             recognizer: TapGestureRecognizer()
                               ..onTap =
-                                  () => _launchUrl("https://www.flutter.io")
+                                  () => _launchUrl("https://github.com/joakiti/ScheduleIT")
+                        ),
+                        TextSpan(
+                            text: ".\n\n"
                         ),
                         TextSpan(
                           text: "This schema app is built using the ",
@@ -124,6 +127,9 @@ class AboutPage extends StatelessWidget {
                           text: ".",
                         ),
                         TextSpan(
+                          text: "\n\nThis app was developed by JokaApps."
+                        ),
+                        TextSpan(
                             text: "\n\nCredits",
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
@@ -137,7 +143,7 @@ class AboutPage extends StatelessWidget {
                       ]))
                 ])),
                 Text(
-                  "Built with",
+                  "\nBuilt with",
                   style: TextStyle(
                       fontFamily: "Roboto",
                       fontSize: 17.0,

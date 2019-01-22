@@ -14,7 +14,7 @@ class ScheduleApp extends StatelessWidget {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
     return BlocProvider(
       child: MaterialApp(
-        title: 'IT-UNIVERSITY OF COPENHAGEN SCHEDULE',
+        title: 'ITU Schedule',
         theme: ThemeData(
             backgroundColor: background, scaffoldBackgroundColor: background),
         home: MenuPage(),
