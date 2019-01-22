@@ -68,13 +68,12 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
   /// thus the push on the [Navigator], and by providing the [item] as
   /// a parameter to the [TimelineWidget] constructor, this widget will know 
   /// where to scroll to.
-  navigateToTimeline(MenuItemData item) {
+  navigateToTimeline(MenuItemData item, Color background) {
     _pauseSection();
-    item.getLabel();
     Navigator.of(context)
         .push(MaterialPageRoute(
           builder: (BuildContext context) =>
-              ReservationList(label: item),
+              ReservationList(item, background),
         ))
         .then(_restoreSection);
   }
@@ -143,9 +142,6 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     }
   }
 
-  void _tapSearchResult(TimelineEntry entry) {
-    navigateToTimeline(MenuItemData.fromEntry(entry));
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -156,14 +152,6 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     /// 
     /// If the app is searching, lay out the results.
     /// Otherwise, insert the menu information with all the various sections.
-    if (_isSearching) {
-      for (int i = 0; i < _searchResults.length; i++) {
-        tail.add(RepaintBoundary(child: 
-            ThumbnailDetailWidget(_searchResults[i],
-            hasDivider: i != 0, tapSearchResult: _tapSearchResult)
-        ));
-      }
-    } else {
       tail
         ..addAll(_menu.sections
             .map<Widget>((MenuSectionData section) => Container(
@@ -212,7 +200,6 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                 )
               ])),
         ));
-    }
 
     /// Wrap the menu in a [WillPopScope] to properly handle a pop event while searching.
     /// A [SingleChildScrollView] is used to create a scrollable view for the main menu.

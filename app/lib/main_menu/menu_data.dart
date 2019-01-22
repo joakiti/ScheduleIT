@@ -17,6 +17,7 @@ class MenuSectionData {
 /// Data container for all the sub-elements of the [MenuSection].
 class MenuItemData {
   String label;
+  String path;
   double start;
   double end;
   bool pad = false;
@@ -33,6 +34,7 @@ class MenuItemData {
   /// Padding is built depending on the type of the [entry] provided.
   MenuItemData.fromEntry(TimelineEntry entry) {
     label = entry.label;
+    path = entry.path;
 
     /// Pad the edges of the screen.
     pad = true;
@@ -123,6 +125,9 @@ class MenuData {
             MenuItemData itemData = MenuItemData();
             if (itemMap.containsKey("label")) {
               itemData.label = itemMap["label"] as String;
+            }
+            if (itemMap.containsKey("path")) {
+              itemData.path = itemMap["path"] as String;
             }
             if (itemMap.containsKey("start")) {
               dynamic start = itemMap["start"];

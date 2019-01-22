@@ -79,6 +79,7 @@ class TimelineEntry {
   int lineCount = 1;
   /// 
   String _label;
+  String _path;
   String articleFilename;
   String id;
 
@@ -119,6 +120,7 @@ class TimelineEntry {
   }
 
   String get label => _label;
+  String get path => _path;
   /// Some labels already have newline characters to adjust their alignment.
   /// Detect the occurrence and add information regarding the line-count.
   set label(String value) {
@@ -133,6 +135,9 @@ class TimelineEntry {
       lineCount++;
       start++;
     }
+  }
+  set path(String value) {
+    _path = value;
   }
 
   /// Pretty-printing for the entry date.

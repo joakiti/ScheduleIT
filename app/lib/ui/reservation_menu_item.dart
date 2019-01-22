@@ -105,9 +105,9 @@ class _SectionState extends State<MenuSection>
         padding: EdgeInsets.symmetric(horizontal: 10.0),
         margin: EdgeInsets.only(left: 5, right: 5),
         decoration: BoxDecoration(
-            color: Theme.of(context).accentColor,
+            color: widget.backgroundColor,
             borderRadius: BorderRadius.circular(5.0)),
-        child: Text(room));
+        child: Text(room, style: TextStyle(color: Colors.white),));
   }
 
   /// This method wraps the whole widget in a [GestureDetector] to handle taps appropriately.
@@ -131,7 +131,7 @@ class _SectionState extends State<MenuSection>
         child: Container(
             decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10.0),
-                color: widget.backgroundColor),
+                color: widget.backgroundColor.withOpacity(0.8)),
             child: ClipRRect(
                 borderRadius: BorderRadius.circular(10.0),
                 child: Stack(

@@ -5,9 +5,10 @@ import '../models/calender_item.dart';
 import '../mybloc/reservations_bloc.dart';
 
 class ReservationList extends StatefulWidget {
-  final MenuItemData label;
+  final MenuItemData data;
+  final Color background;
 
-  ReservationList({this.label});
+  ReservationList(this.data, this.background);
 
   @override
   State<StatefulWidget> createState() {
@@ -24,11 +25,13 @@ class ReservationListState extends State<ReservationList> {
 
   @override
   Widget build(BuildContext context) {
-    bloc.fetchAllReservations();
+    bloc.fetchAllReservations(widget.data.path);
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.label.label),
+        backgroundColor: widget.background.withOpacity(0.8),
+        title: Text(widget.data.label),
       ),
+      backgroundColor: widget.background.withOpacity(0.3  ),
       body: StreamBuilder(
         stream: bloc.allMovies,
         builder: (context, AsyncSnapshot<ItemModel> snapshot) {
@@ -147,10 +150,10 @@ class ReservationListState extends State<ReservationList> {
                       ]),
                   margin: EdgeInsets.only(top: 20.0),
                   child: MenuSection(
-                    backgroundColor: Colors.indigoAccent,
+                    backgroundColor: widget.background,
                     accentColor: Colors.white,
                     isActive: false,
-                    menuOptions: [reservation.room, reservation.courseType],
+                    menuOptions: [reservation.namePerson, reservation.courseCode.trim(), reservation.courseType],
                     reservation: reservation,
                   )),
             ],

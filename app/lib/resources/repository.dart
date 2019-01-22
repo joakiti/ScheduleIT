@@ -5,5 +5,5 @@ import '../models/calender_item.dart';
 class Repository {
   final moviesApiProvider = ReservationsApiProvider();
 
-  Future<ItemModel> fetchAllReservations() => moviesApiProvider.fetchReservations();
+  Future<ItemModel> fetchAllReservations(String endpoint) => moviesApiProvider.fetchReservations(endpoint);
 }

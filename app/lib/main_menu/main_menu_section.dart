@@ -4,7 +4,7 @@ import 'package:timeline/main_menu/menu_data.dart';
 import "package:flare/flare_actor.dart" as flare;
 import 'package:timeline/main_menu/menu_vignette.dart';
 
-typedef NavigateTo(MenuItemData item);
+typedef NavigateTo(MenuItemData item, Color color);
 
 /// This widget displays the single menu section of the [MainMenuWidget].
 /// 
@@ -166,7 +166,7 @@ class _SectionState extends State<MenuSection>
                                       children: widget.menuOptions.map((item) {
                                     return GestureDetector(
                                         behavior: HitTestBehavior.opaque,
-                                        onTap: () => widget.navigateTo(item),
+                                        onTap: () => widget.navigateTo(item, widget.backgroundColor),
                                         child: Row(
                                             crossAxisAlignment:
                                                 CrossAxisAlignment.start,

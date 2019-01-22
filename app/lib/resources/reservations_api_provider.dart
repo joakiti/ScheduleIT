@@ -6,10 +6,10 @@ import '../models/calender_item.dart';
 class ReservationsApiProvider {
   Client client = Client();
 
-  Future<ItemModel> fetchReservations() async {
+  Future<ItemModel> fetchReservations(String endpoint) async {
     print("entered");
     final response = await client
-        .get("https://schedule-flutter-2.herokuapp.com/");
+        .get("https://schedule-flutter-2.herokuapp.com" + endpoint);
     print(response.body.toString());
     if (response.statusCode == 200) {
       // If the call to the server was successful, parse the JSON
