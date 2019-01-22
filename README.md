@@ -21,3 +21,6 @@ All the animations in the `/assets` folder are distributed under the **CC-BY** l
 
 
 The rest of the repository's code and contents are distributed under the **MIT** license as specified in [LICENSE](LICENSE).
+
+## TODO
+Enable scheduling for masters
