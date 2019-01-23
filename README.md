@@ -9,7 +9,7 @@ The app was built with [Flutter](https://flutter.io/) it's available on [Android
 
 Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
 ```
-git clone https://github.com/2d-inc/HistoryOfEverything.git
+git clone https://github.com/joakiti/ScheduleIT
 cd ScheduleIT/app
 git submodule init
 git submodule update
