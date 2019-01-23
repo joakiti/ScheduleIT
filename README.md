@@ -28,3 +28,4 @@ The rest of the repository's code and contents are distributed under the **MIT**
 - New app icon
 - New animations more relevant for ITU
 - Update android ID?
+- Find another solution to fetching data from timeedit instead of manually entering all URLs every month
