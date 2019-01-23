@@ -26,3 +26,5 @@ The rest of the repository's code and contents are distributed under the **MIT**
 - Enable scheduling for masters
 - Cleanup unnecessary code from former project
 - New app icon
+- New animations more relevant for ITU
+- Update android ID?
