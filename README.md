@@ -33,3 +33,4 @@ The app communicates with a API on heroku, which then communicates with timeedit
 - New animations more relevant for ITU
 - Update android ID?
 - Find another solution to fetching data from timeedit instead of manually entering all URLs every month
+- Update Play Store screenshots
