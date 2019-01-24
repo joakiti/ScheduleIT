@@ -128,7 +128,16 @@ class ReservationListState extends State<ReservationList> {
           if (reservation.startDate.difference(DateTime.now()) < Duration()) {
             return Container();
           }
-
+          List<String> menuOptions = new List();
+          if (reservation.namePerson != "") {
+            menuOptions.add(reservation.namePerson);
+          }
+          if (reservation.courseType != "") {
+            menuOptions.add(reservation.courseType);
+          }
+          if (reservation.courseCode != null) {
+            menuOptions.add(reservation.courseCode);
+          }
           return Column(
             children: <Widget>[
               wrapper,
@@ -153,7 +162,7 @@ class ReservationListState extends State<ReservationList> {
                     backgroundColor: widget.background,
                     accentColor: Colors.white,
                     isActive: false,
-                    menuOptions: [reservation.namePerson, reservation.courseCode.trim(), reservation.courseType],
+                    menuOptions: menuOptions,
                     reservation: reservation,
                   )),
             ],

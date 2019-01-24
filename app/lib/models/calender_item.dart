@@ -57,9 +57,8 @@ class Reservation {
     _programme = reservation['columns'][3];
     _courseType = reservation['columns'][4];
     _lectureType = reservation['columns'][5];
-    List<String> formattedActivity = _studyActivity.split(".");
-    _courseName = formattedActivity[0];
-    _courseCode = formattedActivity[1].split(",")[0];
+      List<String> formattedActivity = _studyActivity.split(".");
+      _courseName = formattedActivity[0];
 
   }
 
