@@ -22,15 +22,10 @@ All the animations in the `/assets` folder are distributed under the **CC-BY** l
 
 The rest of the repository's code and contents are distributed under the **MIT** license as specified in [LICENSE](LICENSE).
 
-## API
-
-The app communicates with a API on heroku, which then communicates with timeedit. Repo for that code is coming soon.
-
 ## TODO
 - Enable scheduling for masters
 - Cleanup unnecessary code from former project
 - New app icon
 - New animations more relevant for ITU
 - Update android ID?
-- Find another solution to fetching data from timeedit instead of manually entering all URLs every month
 - Update Play Store screenshots
