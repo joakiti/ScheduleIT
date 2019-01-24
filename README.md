@@ -24,7 +24,7 @@ The rest of the repository's code and contents are distributed under the **MIT**
 
 ## API
 
-The app communicates with a API on heroku, which then communicates with timeedit. Repo for that code is coming soon.
+The app communicates with a API on heroku, which then communicates with timeedit.
 
 ## TODO
 - Enable scheduling for masters
