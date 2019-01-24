@@ -41,7 +41,7 @@ android {
         applicationId "com.twodimensions.timeline1"
         minSdkVersion 16
         targetSdkVersion 27
-        versionCode flutterVersionCode.toInteger()
+        versionCode 20
         versionName flutterVersionName
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
