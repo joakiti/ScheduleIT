@@ -3,12 +3,10 @@ import "dart:async";
 import 'package:flutter/cupertino.dart';
 import "package:flutter/material.dart";
 import "package:flutter/widgets.dart";
-import 'package:timeline/main_menu/collapsible.dart';
 import "package:timeline/main_menu/menu_data.dart";
 import "package:timeline/main_menu/main_menu_section.dart";
 import "package:timeline/main_menu/about_page.dart";
 import "package:timeline/colors.dart";
-import "package:timeline/timeline/timeline_entry.dart";
 import 'package:timeline/timeline/timeline_widget.dart';
 import 'package:timeline/ui/reservations_list.dart';
 
@@ -36,25 +34,12 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
   /// This data is loaded from the asset bundle during [initState()]
   final MenuData _menu = MenuData();
 
-  /// This is passed to the SearchWidget so we can handle text edits and display the search results on the main menu.
-  final TextEditingController _searchTextController = TextEditingController();
-  final FocusNode _searchFocusNode = FocusNode();
-  Timer _searchTimer;
-
-  cancelSearch() {
-    if (_searchTimer != null && _searchTimer.isActive) {
-      /// Remove old timer.
-      _searchTimer.cancel();
-      _searchTimer = null;
-    }
-  }
-
   /// Helper function which sets the [MenuItemData] for the [TimelineWidget].
   /// This will trigger a transition from the current menu to the Timeline,
   /// thus the push on the [Navigator], and by providing the [item] as
   /// a parameter to the [TimelineWidget] constructor, this widget will know
   /// where to scroll to.
-  navigateToTimeline(MenuItemData item, Color background) {
+  navigateToCourse(MenuItemData item, Color background) {
     _pauseSection();
     Navigator.of(context)
         .push(MaterialPageRoute(
@@ -82,7 +67,6 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
   @override
   Widget build(BuildContext context) {
     EdgeInsets devicePadding = MediaQuery.of(context).padding;
-
     List<Widget> tail = [];
 
     /// Check the current state before creating the layout for the menu (i.e. [tail]).
@@ -98,7 +82,7 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                 section.backgroundColor,
                 section.textColor,
                 section.items,
-                navigateToTimeline,
+                navigateToCourse,
                 _isSectionActive,
                 assetId: section.assetId,
               )))

@@ -1,5 +1,4 @@
 import "package:flutter/widgets.dart";
-import "package:timeline/blocs/favorites_bloc.dart";
 import 'package:timeline/timeline/timeline.dart';
 import 'package:timeline/timeline/timeline_entry.dart';
 
@@ -15,7 +14,6 @@ class BlocProvider extends InheritedWidget {
   /// Lastly use the entries' references to load a local dictionary for the [SearchManager].
   BlocProvider(
       {Key key,
-      FavoritesBloc fb,
       Timeline t,
       @required Widget child,
       TargetPlatform platform = TargetPlatform.iOS})
@@ -37,12 +35,6 @@ class BlocProvider extends InheritedWidget {
   @override
   updateShouldNotify(InheritedWidget oldWidget) => true;
 
-  /// static accessor for the [FavoritesBloc]. 
-  /// e.g. [ArticleWidget] retrieves the favorites information using this static getter.
-  static FavoritesBloc favorites(BuildContext context) {
-    BlocProvider bp =
-        (context.inheritFromWidgetOfExactType(BlocProvider) as BlocProvider);
-  }
 
   /// static accessor for the [Timeline]. 
   /// e.g. [_MainMenuWidgetState.navigateToTimeline] uses this static getter to access build the [TimelineWidget].

@@ -11,7 +11,6 @@ import 'package:nima/nima/actor_image.dart' as nima;
 import 'package:nima/nima/math/aabb.dart' as nima;
 import 'package:timeline/colors.dart';
 import 'package:timeline/main_menu/menu_data.dart';
-import 'package:timeline/timeline/ticks.dart';
 import 'package:timeline/timeline/timeline.dart';
 import 'package:timeline/timeline/timeline_entry.dart';
 import 'package:timeline/timeline/timeline_utils.dart';
@@ -89,7 +88,6 @@ class TimelineRenderObject extends RenderBox {
   ];
 
   double _topOverlap = 0.0;
-  Ticks _ticks = Ticks();
   Timeline _timeline;
   MenuItemData _focusItem;
   MenuItemData _processedFocusItem;
@@ -451,8 +449,6 @@ class TimelineRenderObject extends RenderBox {
     canvas.save();
     canvas.clipRect(Rect.fromLTWH(
         offset.dx, offset.dy + topOverlap, size.width, size.height));
-    _ticks.paint(
-        context, offset, -renderStart * scale, scale, size.height, timeline);
     canvas.restore();
 
     /// And then draw the rest of the timeline.

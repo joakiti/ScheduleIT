@@ -4,8 +4,6 @@ import 'package:flare/flare_actor.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:timeline/article/article_widget.dart';
-import 'package:timeline/bloc_provider.dart';
 import "package:timeline/colors.dart";
 import 'package:timeline/main_menu/menu_data.dart';
 import 'package:timeline/timeline/timeline.dart';
@@ -106,49 +104,6 @@ class _TimelineWidgetState extends State<TimelineWidget> {
     timeline.setViewport(velocity: 0.0, animate: true);
   }
 
-  /// If the [TimelineRenderWidget] has set the [_touchedBubble] to the currently
-  /// touched bubble on the timeline, upon removing the finger from the screen,
-  /// the app will check if the touch operation consists of a zooming operation.
-  /// 
-  /// If it is, adjust the layout accordingly.
-  /// Otherwise trigger a [Navigator.push()] for the tapped bubble. This moves
-  /// the app into the [ArticleWidget].
-  void _tapUp(TapUpDetails details) {
-    EdgeInsets devicePadding = MediaQuery.of(context).padding;
-    if (_touchedBubble != null) {
-      if (_touchedBubble.zoom) {
-        MenuItemData target = MenuItemData.fromEntry(_touchedBubble.entry);
-
-        timeline.padding = EdgeInsets.only(
-            top: TopOverlap +
-                devicePadding.top +
-                target.padTop +
-                Timeline.Parallax,
-            bottom: target.padBottom);
-        timeline.setViewport(
-            start: target.start, end: target.end, animate: true, pad: true);
-      } else {
-        widget.timeline.isActive = false;
-
-        Navigator.of(context)
-            .push(MaterialPageRoute(
-                builder: (BuildContext context) =>
-                    ArticleWidget(article: _touchedBubble.entry)))
-            .then((v) => widget.timeline.isActive = true);
-      }
-    } else if (_touchedEntry != null) {
-      MenuItemData target = MenuItemData.fromEntry(_touchedEntry);
-
-      timeline.padding = EdgeInsets.only(
-          top: TopOverlap +
-              devicePadding.top +
-              target.padTop +
-              Timeline.Parallax,
-          bottom: target.padBottom);
-      timeline.setViewport(
-          start: target.start, end: target.end, animate: true, pad: true);
-    }
-  }
 
   /// When performing a long-press operation, the viewport will be adjusted so that 
   /// the visible start and end times will be updated according to the [TimelineEntry] 
@@ -258,11 +213,9 @@ class _TimelineWidgetState extends State<TimelineWidget> {
           onScaleStart: _scaleStart,
           onScaleUpdate: _scaleUpdate,
           onScaleEnd: _scaleEnd,
-          onTapUp: _tapUp,
           child: Stack(children: <Widget>[
             TimelineRenderWidget(
                 timeline: timeline,
-                favorites: BlocProvider.favorites(context).favorites,
                 topOverlap: TopOverlap + devicePadding.top,
                 focusItem: widget.focusItem,
                 touchBubble: onTouchBubble,
