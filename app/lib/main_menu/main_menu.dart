@@ -10,15 +10,14 @@ import "package:timeline/main_menu/menu_data.dart";
 import "package:timeline/main_menu/main_menu_section.dart";
 import "package:timeline/main_menu/about_page.dart";
 import 'package:timeline/main_menu/thumbnail_detail_widget.dart';
-import "package:timeline/search_manager.dart";
 import "package:timeline/colors.dart";
 import "package:timeline/timeline/timeline_entry.dart";
 import 'package:timeline/timeline/timeline_widget.dart';
 import 'package:timeline/ui/reservations_list.dart';
 
-/// The Main Page of the Timeline App. 
-/// 
-/// This Widget lays out the search bar at the top of the page, 
+/// The Main Page of the Timeline App.
+///
+/// This Widget lays out the search bar at the top of the page,
 /// the three card-sections for accessing the main events on the Timeline,
 /// and it'll provide on the bottom three links for quick access to your Favorites,
 /// a Share Menu and the About Page.
@@ -31,12 +30,12 @@ class MainMenuWidget extends StatefulWidget {
 
 class _MainMenuWidgetState extends State<MainMenuWidget> {
   /// State is maintained for two reasons:
-  /// 
+  ///
   /// 1. Search Functionality:
-  /// When the search bar is tapped, the Widget view is filled with all the 
+  /// When the search bar is tapped, the Widget view is filled with all the
   /// search info -- i.e. the [ListView] containing all the results.
   bool _isSearching = false;
-  
+
   /// 2. Section Animations:
   /// Each card section contains a Flare animation that's playing in the background.
   /// These animations are paused when they're not visible anymore (e.g. when search is visible instead),
@@ -66,42 +65,20 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
   /// Helper function which sets the [MenuItemData] for the [TimelineWidget].
   /// This will trigger a transition from the current menu to the Timeline,
   /// thus the push on the [Navigator], and by providing the [item] as
-  /// a parameter to the [TimelineWidget] constructor, this widget will know 
+  /// a parameter to the [TimelineWidget] constructor, this widget will know
   /// where to scroll to.
   navigateToTimeline(MenuItemData item, Color background) {
     _pauseSection();
     Navigator.of(context)
         .push(MaterialPageRoute(
-          builder: (BuildContext context) =>
-              ReservationList(item, background),
+          builder: (BuildContext context) => ReservationList(item, background),
         ))
         .then(_restoreSection);
   }
 
   _restoreSection(v) => setState(() => _isSectionActive = true);
-  _pauseSection() => setState(() => _isSectionActive = false);
 
-  /// Used by the [_searchTextController] to properly update the state of this widget,
-  /// and consequently the layout of the current view.
-  updateSearch() {
-    cancelSearch();
-    if (!_isSearching) {
-      setState(() {
-        _searchResults = List<TimelineEntry>();
-      });
-      return;
-    }
-    String txt = _searchTextController.text.trim();
-    /// Perform search.
-    /// 
-    /// A [Timer] is used to prevent unnecessary searches while the user is typing.
-    _searchTimer = Timer(Duration(milliseconds: txt.isEmpty ? 0 : 350), () {
-      Set<TimelineEntry> res = SearchManager.init().performSearch(txt);
-      setState(() {
-        _searchResults = res.toList();
-      });
-    });
-  }
+  _pauseSection() => setState(() => _isSectionActive = false);
 
   initState() {
     super.initState();
@@ -109,20 +86,9 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     /// The [_menu] loads a JSON file that's stored in the assets folder.
     /// This asset provides all the necessary information for the cards,
     /// such as labels, background colors, the background Flare animation asset,
-    /// and for each element in the expanded card, the relative position on the [Timeline]. 
+    /// and for each element in the expanded card, the relative position on the [Timeline].
     _menu.loadFromBundle("assets/menu.json").then((bool success) {
       if (success) setState(() {}); // Load the menu.
-    });
-
-    _searchTextController.addListener(() {
-      updateSearch();
-    });
-
-    _searchFocusNode.addListener(() {
-      setState(() {
-        _isSearching = _searchFocusNode.hasFocus;
-        updateSearch();
-      });
     });
   }
 
@@ -142,64 +108,74 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     }
   }
 
-
   @override
   Widget build(BuildContext context) {
     EdgeInsets devicePadding = MediaQuery.of(context).padding;
 
     List<Widget> tail = [];
+
     /// Check the current state before creating the layout for the menu (i.e. [tail]).
-    /// 
+    ///
     /// If the app is searching, lay out the results.
     /// Otherwise, insert the menu information with all the various sections.
-      tail
-        ..addAll(_menu.sections
-            .map<Widget>((MenuSectionData section) => Container(
-                margin: EdgeInsets.only(top: 20.0),
-                child: MenuSection(
-                  section.label,
-                  section.backgroundColor,
-                  section.textColor,
-                  section.items,
-                  navigateToTimeline,
-                  _isSectionActive,
-                  assetId: section.assetId,
-                )))
-            .toList(growable: false))
-        ..add(Container(
-          margin: EdgeInsets.only(top: 40.0, bottom: 22),
-          height: 1.0,
-          color: const Color.fromRGBO(255, 255, 255, 0.1),
-        ))
-        ..add(Padding(
-          padding: const EdgeInsets.only(bottom: 30.0),
-          child: FlatButton(
-              onPressed: () {
-                _pauseSection();
-                Navigator.of(context)
-                    .push(MaterialPageRoute(
-                        builder: (BuildContext context) => AboutPage()))
-                    .then(_restoreSection);
-              },
-              color: Colors.transparent,
-              child:
-                  Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
-                Container(
-                  margin: EdgeInsets.only(right: 15.5),
-                  child: Image.asset("assets/info_icon.png",
-                      height: 20.0,
-                      width: 20.0,
-                      color: Colors.white.withOpacity(0.9)),
-                ),
-                Text(
-                  "About",
-                  style: TextStyle(
-                      fontSize: 20.0,
-                      fontFamily: "RobotoMedium",
-                      color: Colors.white.withOpacity(0.9)),
-                )
-              ])),
-        ));
+    tail
+      ..addAll(_menu.sections
+          .map<Widget>((MenuSectionData section) => Container(
+              margin: EdgeInsets.only(top: 20.0),
+              child: MenuSection(
+                section.label,
+                section.backgroundColor,
+                section.textColor,
+                section.items,
+                navigateToTimeline,
+                _isSectionActive,
+                assetId: section.assetId,
+              )))
+          .toList(growable: false))
+      ..add(Container(
+        margin: EdgeInsets.only(top: 40.0, bottom: 22),
+        height: 1.0,
+        color: const Color.fromRGBO(255, 255, 255, 0.1),
+      ))
+      ..add(Padding(
+        padding: const EdgeInsets.only(bottom: 30.0),
+        child: FlatButton(
+            onPressed: () {
+              _pauseSection();
+              Navigator.of(context)
+                  .push(MaterialPageRoute(
+                      builder: (BuildContext context) => AboutPage()))
+                  .then(_restoreSection);
+            },
+            color: Colors.transparent,
+            child:
+                Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
+              Container(
+                margin: EdgeInsets.only(right: 15.5),
+                child: Image.asset("assets/info_icon.png",
+                    height: 20.0,
+                    width: 20.0,
+                    color: Colors.white.withOpacity(0.9)),
+              ),
+              Text(
+                "About",
+                style: TextStyle(
+                    fontSize: 20.0,
+                    fontFamily: "RobotoMedium",
+                    color: Colors.white.withOpacity(0.9)),
+              )
+            ])),
+      ))
+      ..add(
+          Row(crossAxisAlignment: CrossAxisAlignment.center, children: <Widget>[
+        Text(
+          "Bug reports and crashes at mikan@itu.dk",
+          style: TextStyle(
+              fontSize: 20.0,
+              fontFamily: "RobotoMedium",
+              color: Colors.white.withOpacity(0.9)),
+        )
+      ]));
 
     /// Wrap the menu in a [WillPopScope] to properly handle a pop event while searching.
     /// A [SingleChildScrollView] is used to create a scrollable view for the main menu.
@@ -227,11 +203,12 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
                                             top: 20.0, bottom: 12.0),
                                         child: Opacity(
                                             opacity: 0.85,
-                                            child: Text("IT-UNIVERSITY OF COPENHAGEN",
-                                            style: TextStyle(
-                                              color: Colors.white,
-                                              fontFamily: "Arial"
-                                            ),))),
+                                            child: Text(
+                                              "IT-UNIVERSITY OF COPENHAGEN",
+                                              style: TextStyle(
+                                                  color: Colors.white,
+                                                  fontFamily: "Arial"),
+                                            ))),
                                     Text("Find your schedule",
                                         textAlign: TextAlign.left,
                                         style: TextStyle(

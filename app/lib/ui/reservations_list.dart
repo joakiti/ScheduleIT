@@ -125,7 +125,7 @@ class ReservationListState extends State<ReservationList> {
             date = reservation.startDate;
             wrapper = buildTitle(date);
           }
-          if (reservation.startDate.difference(DateTime.now()) < Duration()) {
+          if (reservation.startDate.difference(DateTime.now()) < Duration(days: -1)) {
             return Container();
           }
           List<String> menuOptions = new List();
