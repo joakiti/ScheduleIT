@@ -2,14 +2,11 @@ import "dart:async";
 
 import 'package:flutter/cupertino.dart';
 import "package:flutter/material.dart";
-import 'dart:developer';
 import "package:flutter/widgets.dart";
-import 'package:timeline/bloc_provider.dart';
 import 'package:timeline/main_menu/collapsible.dart';
 import "package:timeline/main_menu/menu_data.dart";
 import "package:timeline/main_menu/main_menu_section.dart";
 import "package:timeline/main_menu/about_page.dart";
-import 'package:timeline/main_menu/thumbnail_detail_widget.dart';
 import "package:timeline/colors.dart";
 import "package:timeline/timeline/timeline_entry.dart";
 import 'package:timeline/timeline/timeline_widget.dart';
@@ -29,21 +26,11 @@ class MainMenuWidget extends StatefulWidget {
 }
 
 class _MainMenuWidgetState extends State<MainMenuWidget> {
-  /// State is maintained for two reasons:
-  ///
-  /// 1. Search Functionality:
-  /// When the search bar is tapped, the Widget view is filled with all the
-  /// search info -- i.e. the [ListView] containing all the results.
-  bool _isSearching = false;
-
   /// 2. Section Animations:
   /// Each card section contains a Flare animation that's playing in the background.
   /// These animations are paused when they're not visible anymore (e.g. when search is visible instead),
   /// and are played again once they're back in view.
   bool _isSectionActive = true;
-
-  /// The [List] of search results that is displayed when searching.
-  List<TimelineEntry> _searchResults = List<TimelineEntry>();
 
   /// [MenuData] is a wrapper object for the data of each Card section.
   /// This data is loaded from the asset bundle during [initState()]
@@ -90,22 +77,6 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     _menu.loadFromBundle("assets/menu.json").then((bool success) {
       if (success) setState(() {}); // Load the menu.
     });
-  }
-
-  /// A [WillPopScope] widget wraps the menu, so that before dismissing the whole app,
-  /// search will be popped first. Otherwise the app will proceed as usual.
-  Future<bool> _popSearch() {
-    if (_isSearching) {
-      setState(() {
-        _searchFocusNode.unfocus();
-        _searchTextController.clear();
-        _isSearching = false;
-      });
-      return Future(() => false);
-    } else {
-      Navigator.of(context).pop(true);
-      return Future(() => true);
-    }
   }
 
   @override
@@ -181,44 +152,39 @@ class _MainMenuWidgetState extends State<MainMenuWidget> {
     /// A [SingleChildScrollView] is used to create a scrollable view for the main menu.
     /// This will contain a [Column] with a [Collapsible] header on top, and a [tail]
     /// that's built according with the state of this widget.
-    return WillPopScope(
-      onWillPop: _popSearch,
-      child: Container(
-          color: background,
-          child: Padding(
-            padding: EdgeInsets.only(top: devicePadding.top),
-            child: SingleChildScrollView(
-                padding:
-                    EdgeInsets.only(top: 20.0, left: 20, right: 20, bottom: 20),
-                child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: <Widget>[
-                          Collapsible(
-                              isCollapsed: _isSearching,
-                              child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: <Widget>[
-                                    Padding(
-                                        padding: const EdgeInsets.only(
-                                            top: 20.0, bottom: 12.0),
-                                        child: Opacity(
-                                            opacity: 0.85,
-                                            child: Text(
-                                              "IT-UNIVERSITY OF COPENHAGEN",
-                                              style: TextStyle(
-                                                  color: Colors.white,
-                                                  fontFamily: "Arial"),
-                                            ))),
-                                    Text("Find your schedule",
-                                        textAlign: TextAlign.left,
+    return Container(
+        color: background,
+        child: Padding(
+          padding: EdgeInsets.only(top: devicePadding.top),
+          child: SingleChildScrollView(
+              padding:
+                  EdgeInsets.only(top: 20.0, left: 20, right: 20, bottom: 20),
+              child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: <Widget>[
+                        Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: <Widget>[
+                              Padding(
+                                  padding: const EdgeInsets.only(
+                                      top: 20.0, bottom: 12.0),
+                                  child: Opacity(
+                                      opacity: 0.85,
+                                      child: Text(
+                                        "IT-UNIVERSITY OF COPENHAGEN",
                                         style: TextStyle(
                                             color: Colors.white,
-                                            fontSize: 34.0,
-                                            fontFamily: "RobotoMedium"))
-                                  ])),
-                        ] +
-                        tail)),
-          )),
-    );
+                                            fontFamily: "Arial"),
+                                      ))),
+                              Text("Find your schedule",
+                                  textAlign: TextAlign.left,
+                                  style: TextStyle(
+                                      color: Colors.white,
+                                      fontSize: 34.0,
+                                      fontFamily: "RobotoMedium"))
+                            ]),
+                      ] +
+                      tail)),
+        ));
   }
 }
