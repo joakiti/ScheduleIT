@@ -1,0 +1,2703 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-DS 1st year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190128T090000Z
+DTEND:20190128T110000Z
+UID:44198--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44198
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T090000Z
+DTEND:20190204T110000Z
+UID:44199--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44199
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T090000Z
+DTEND:20190211T110000Z
+UID:44200--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T090000Z
+DTEND:20190218T110000Z
+UID:44201--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44201
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T090000Z
+DTEND:20190225T110000Z
+UID:44202--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44202
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T090000Z
+DTEND:20190304T110000Z
+UID:44203--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T090000Z
+DTEND:20190311T110000Z
+UID:44204--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44204
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T090000Z
+DTEND:20190318T110000Z
+UID:44205--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44205
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T090000Z
+DTEND:20190325T110000Z
+UID:44206--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44206
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T080000Z
+DTEND:20190401T100000Z
+UID:44207--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44207
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T080000Z
+DTEND:20190408T100000Z
+UID:44208--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T080000Z
+DTEND:20190429T100000Z
+UID:44210--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44210
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T080000Z
+DTEND:20190506T100000Z
+UID:44211--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44211
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T090000Z
+DTEND:20190201T110000Z
+UID:44213--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44213
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T090000Z
+DTEND:20190208T110000Z
+UID:44214--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44214
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:44215--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:44216--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:44217--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44217
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:44218--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44218
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:44219--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44219
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:44220--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44220
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:44221--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44221
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:44222--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44222
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:44223--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44223
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:44224--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44224
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:44225--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44225
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:44226--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44226
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T150000Z
+DTEND:20190131T170000Z
+UID:44227--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44227
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T150000Z
+DTEND:20190207T170000Z
+UID:44228--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44228
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T150000Z
+DTEND:20190214T170000Z
+UID:44229--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44229
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T150000Z
+DTEND:20190221T170000Z
+UID:44230--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44230
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T150000Z
+DTEND:20190228T170000Z
+UID:44231--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44231
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T150000Z
+DTEND:20190307T170000Z
+UID:44232--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T150000Z
+DTEND:20190314T170000Z
+UID:44233--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44233
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T150000Z
+DTEND:20190321T170000Z
+UID:44234--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44234
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T150000Z
+DTEND:20190328T170000Z
+UID:44235--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44235
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T140000Z
+DTEND:20190404T160000Z
+UID:44236--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44236
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T140000Z
+DTEND:20190411T160000Z
+UID:44237--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44237
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T140000Z
+DTEND:20190425T160000Z
+UID:44238--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44238
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T140000Z
+DTEND:20190502T160000Z
+UID:44239--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44239
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T140000Z
+DTEND:20190509T160000Z
+UID:44240--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44240
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T110000Z
+DTEND:20190130T130000Z
+UID:44255--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44255
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T110000Z
+DTEND:20190206T130000Z
+UID:44256--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T110000Z
+DTEND:20190213T130000Z
+UID:44257--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44257
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T110000Z
+DTEND:20190220T130000Z
+UID:44258--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44258
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T110000Z
+DTEND:20190227T130000Z
+UID:44259--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T110000Z
+DTEND:20190306T130000Z
+UID:44260--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44260
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T110000Z
+DTEND:20190313T130000Z
+UID:44261--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44261
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T110000Z
+DTEND:20190320T130000Z
+UID:44262--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44262
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T110000Z
+DTEND:20190327T130000Z
+UID:44263--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T100000Z
+DTEND:20190403T120000Z
+UID:44264--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44264
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T100000Z
+DTEND:20190410T120000Z
+UID:44265--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44265
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T100000Z
+DTEND:20190508T120000Z
+UID:44268--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44268
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T080000Z
+DTEND:20190415T100000Z
+UID:44513--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44513
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:45500--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45500
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:45501--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45501
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:45502--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45502
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:45503--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45503
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:45504--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45504
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:45505--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45505
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:45506--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45506
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:45507--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45507
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:45508--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45508
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:45509--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45509
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:45510--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45510
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:45511--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45511
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:45512--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45512
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:45513--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 45513
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T130000Z
+DTEND:20190131T150000Z
+UID:45528--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T130000Z
+DTEND:20190207T150000Z
+UID:45529--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45529
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T130000Z
+DTEND:20190214T150000Z
+UID:45530--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45530
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T130000Z
+DTEND:20190221T150000Z
+UID:45531--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45531
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T130000Z
+DTEND:20190228T150000Z
+UID:45532--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45532
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T130000Z
+DTEND:20190307T150000Z
+UID:45533--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45533
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T130000Z
+DTEND:20190314T150000Z
+UID:45534--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45534
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T130000Z
+DTEND:20190321T150000Z
+UID:45535--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45535
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T130000Z
+DTEND:20190328T150000Z
+UID:45536--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45536
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T120000Z
+DTEND:20190404T140000Z
+UID:45537--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45537
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T120000Z
+DTEND:20190411T140000Z
+UID:45538--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45538
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T120000Z
+DTEND:20190425T140000Z
+UID:45539--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45539
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T120000Z
+DTEND:20190502T140000Z
+UID:45540--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45540
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T120000Z
+DTEND:20190509T140000Z
+UID:45541--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Name: M
+ ichele Coscia\, Name: Natalie Elaine Schluter\, Name: Zeljko Agic
+ \, Programme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 45541
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T110000Z
+DTEND:20190128T130000Z
+UID:45542--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T110000Z
+DTEND:20190204T130000Z
+UID:45543--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45543
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T110000Z
+DTEND:20190211T130000Z
+UID:45544--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T110000Z
+DTEND:20190218T130000Z
+UID:45545--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T110000Z
+DTEND:20190225T130000Z
+UID:45546--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T110000Z
+DTEND:20190304T130000Z
+UID:45547--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45547
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T110000Z
+DTEND:20190311T130000Z
+UID:45548--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T110000Z
+DTEND:20190318T130000Z
+UID:45549--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45549
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T110000Z
+DTEND:20190325T130000Z
+UID:45550--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T100000Z
+DTEND:20190401T120000Z
+UID:45551--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T100000Z
+DTEND:20190408T120000Z
+UID:45552--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T100000Z
+DTEND:20190429T120000Z
+UID:45554--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T100000Z
+DTEND:20190506T120000Z
+UID:45555--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU\
+ , Name: Matteo Ceccarello\, Name: Sami Brandt\, Programm
+ e: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 5A60
+DESCRIPTION:ID 45555
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T090000Z
+DTEND:20190129T110000Z
+UID:45556--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T090000Z
+DTEND:20190205T110000Z
+UID:45557--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:45558--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:45559--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:45560--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45560
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:45561--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:45562--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:45563--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45563
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:45564--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45564
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:45565--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45565
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:45566--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45566
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:45567--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45567
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:45568--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45568
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:45569--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BSAPSTA1KU
+ \, Name: Matteo Ceccarello\, Name: Sami Brandt\, Progra
+ mme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45569
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T110000Z
+DTEND:20190129T130000Z
+UID:45570--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45570
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T110000Z
+DTEND:20190205T130000Z
+UID:45571--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45571
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:45572--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45572
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:45573--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45573
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:45574--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45574
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:45575--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45575
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:45576--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45576
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:45577--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45577
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:45578--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45578
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:45579--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45579
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:45580--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45580
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:45581--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45581
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:45582--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45582
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:45583--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 45583
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T130000Z
+DTEND:20190129T150000Z
+UID:45584--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45584
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T130000Z
+DTEND:20190205T150000Z
+UID:45585--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45585
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T130000Z
+DTEND:20190212T150000Z
+UID:45586--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45586
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T130000Z
+DTEND:20190219T150000Z
+UID:45587--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45587
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T130000Z
+DTEND:20190226T150000Z
+UID:45588--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45588
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T130000Z
+DTEND:20190305T150000Z
+UID:45589--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45589
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T130000Z
+DTEND:20190312T150000Z
+UID:45590--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45590
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T130000Z
+DTEND:20190319T150000Z
+UID:45591--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45591
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T130000Z
+DTEND:20190326T150000Z
+UID:45592--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45592
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T120000Z
+DTEND:20190402T140000Z
+UID:45593--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45593
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T120000Z
+DTEND:20190409T140000Z
+UID:45594--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45594
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T120000Z
+DTEND:20190423T140000Z
+UID:45595--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45595
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T120000Z
+DTEND:20190430T140000Z
+UID:45596--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45596
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T120000Z
+DTEND:20190507T140000Z
+UID:45597--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1K
+ U\, Name: Leon Derczynski\, Name: Michele Coscia\, Nam
+ e: Natalie Elaine Schluter\, Name: Zeljko Agic\, Progr
+ amme: DS 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45597
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T100000Z
+DTEND:20190424T120000Z
+UID:46758--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 46758
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46842--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Data Science in Research\, B
+ usiness and Society. BSDSRBS1KU\, Irina Alex Shklovsk
+ i\, Programme: DS 1st year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46842
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190520T070000Z
+DTEND:20190520T110000Z
+UID:46977--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 1408001U\
+ , Study Activity\,  : Algorithms and Data Structures. BSALDAS1KU\,
+  Study Activity\,  : Algorithms and Data Structures. KSALDAS1KU\, 
+ Study Activity\,  : Foundations of Computing - Algorithms and Data
+  Structures. 1010004U\, Riko Jacob\, Thore Husfeldt\, Programme: D
+ S 1st year\, Programme: SDT - Software Design SD\, Programme: SDT 
+ - Software Development\, Programme: SWU 1st year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 2A52\, Room: 2A54\, R
+ oom: 3A12-14\, Room: 3A52\, Room: 3A54\, Room: 4A
+ 14-16\, Room: 4A20\, Room: 4A22\, Room: 4A58\, Room: 5A60
+DESCRIPTION:ID 46977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T070000Z
+DTEND:20190527T110000Z
+UID:46990--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Applied Statistics. BS
+ APSTA1KU\, Rasmus Pagh\, Sami Brandt\, Programm
+ e: DS 1st year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 3A12-14
+DESCRIPTION:ID 46990
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190513T060000Z
+DTEND:20190513T120000Z
+UID:47203--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. B
+ SFIYEP1KU\, Natalie Elaine Schluter\, Programm
+ e: DS 1st year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T070000Z
+DTEND:20190614T190000Z
+UID:47208--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Natalie
+  Elaine Schluter\, Programme: DS 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T070000Z
+DTEND:20190607T190000Z
+UID:47209--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Natalie
+  Elaine Schluter\, Programme: DS 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47209
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T070000Z
+DTEND:20190611T190000Z
+UID:47210--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Natalie
+  Elaine Schluter\, Programme: DS 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47210
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T070000Z
+DTEND:20190612T190000Z
+UID:47211--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Natalie
+  Elaine Schluter\, Programme: DS 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47211
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T070000Z
+DTEND:20190613T190000Z
+UID:47212--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : First Year Project. BSFIYEP1KU\, Natalie
+  Elaine Schluter\, Programme: DS 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47212
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T130000Z
+DTEND:20190128T150000Z
+UID:48394--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48394
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T130000Z
+DTEND:20190204T150000Z
+UID:48395--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48395
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T130000Z
+DTEND:20190211T150000Z
+UID:48396--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48396
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T130000Z
+DTEND:20190218T150000Z
+UID:48397--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48397
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T130000Z
+DTEND:20190225T150000Z
+UID:48398--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48398
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T130000Z
+DTEND:20190304T150000Z
+UID:48399--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48399
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T130000Z
+DTEND:20190311T150000Z
+UID:48400--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T130000Z
+DTEND:20190318T150000Z
+UID:48401--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T130000Z
+DTEND:20190325T150000Z
+UID:48402--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48402
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T120000Z
+DTEND:20190401T140000Z
+UID:48403--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48403
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T120000Z
+DTEND:20190408T140000Z
+UID:48404--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48404
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T120000Z
+DTEND:20190415T140000Z
+UID:48405--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48405
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T120000Z
+DTEND:20190429T140000Z
+UID:48406--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48406
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T120000Z
+DTEND:20190506T140000Z
+UID:48407--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48407
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T110000Z
+DTEND:20190201T150000Z
+UID:48478--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48478
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T110000Z
+DTEND:20190208T150000Z
+UID:48479--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48479
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T110000Z
+DTEND:20190215T150000Z
+UID:48480--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T110000Z
+DTEND:20190222T150000Z
+UID:48481--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48481
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T110000Z
+DTEND:20190301T150000Z
+UID:48482--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48482
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T110000Z
+DTEND:20190308T150000Z
+UID:48483--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48483
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T110000Z
+DTEND:20190315T150000Z
+UID:48484--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48484
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T110000Z
+DTEND:20190322T150000Z
+UID:48485--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48485
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T110000Z
+DTEND:20190329T150000Z
+UID:48486--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48486
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T100000Z
+DTEND:20190405T140000Z
+UID:48487--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48487
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T100000Z
+DTEND:20190412T140000Z
+UID:48488--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T100000Z
+DTEND:20190426T140000Z
+UID:48489--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48489
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T100000Z
+DTEND:20190503T140000Z
+UID:48490--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48490
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T100000Z
+DTEND:20190510T140000Z
+UID:48491--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48491
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T080000Z
+DTEND:20190306T120000Z
+UID:48588--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Linear Algebra and Optim
+ isation. BSLIALO1KU\, Rasmus Ejlers Møgelberg\, P
+ rogramme: DS 1st year\,  Activity: Reexam - on premises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48588
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T150000Z
+DTEND:20190129T170000Z
+UID:48739--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48739
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T150000Z
+DTEND:20190205T170000Z
+UID:48740--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48740
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T150000Z
+DTEND:20190212T170000Z
+UID:48741--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48741
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T150000Z
+DTEND:20190219T170000Z
+UID:48742--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48742
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T150000Z
+DTEND:20190226T170000Z
+UID:48743--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48743
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T150000Z
+DTEND:20190305T170000Z
+UID:48744--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48744
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T150000Z
+DTEND:20190312T170000Z
+UID:48745--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48745
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T150000Z
+DTEND:20190319T170000Z
+UID:48746--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T150000Z
+DTEND:20190326T170000Z
+UID:48747--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48747
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T140000Z
+DTEND:20190402T160000Z
+UID:48748--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48748
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T140000Z
+DTEND:20190409T160000Z
+UID:48749--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48749
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T140000Z
+DTEND:20190423T160000Z
+UID:48750--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48750
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T140000Z
+DTEND:20190430T160000Z
+UID:48751--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48751
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T140000Z
+DTEND:20190507T160000Z
+UID:48752--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T090000Z
+DTEND:20190130T110000Z
+UID:48753--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48753
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T090000Z
+DTEND:20190206T110000Z
+UID:48754--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48754
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T090000Z
+DTEND:20190213T110000Z
+UID:48755--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T090000Z
+DTEND:20190220T110000Z
+UID:48756--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48756
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T090000Z
+DTEND:20190227T110000Z
+UID:48757--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48757
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T090000Z
+DTEND:20190306T110000Z
+UID:48758--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48758
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T090000Z
+DTEND:20190313T110000Z
+UID:48759--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48759
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T090000Z
+DTEND:20190320T110000Z
+UID:48760--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T090000Z
+DTEND:20190327T110000Z
+UID:48761--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48761
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T080000Z
+DTEND:20190403T100000Z
+UID:48762--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48762
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T080000Z
+DTEND:20190410T100000Z
+UID:48763--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48763
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T080000Z
+DTEND:20190424T100000Z
+UID:48764--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48764
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T080000Z
+DTEND:20190501T100000Z
+UID:48765--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T080000Z
+DTEND:20190508T100000Z
+UID:48766--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Study Assistance\, Programme: DS 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48766
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T080000Z
+DTEND:20190313T120000Z
+UID:48892--425819232-0@timeedit.com
+DTSTAMP:20190301T214546Z
+LAST-MODIFIED:20190301T214546Z
+SUMMARY:Study Activity\,  : Introduction to Data Sci
+ ence and Programming. BSINDSP1KU\, Zeljko Agic\, 
+ Programme: DS 1st year\,  Activity: Reexam - on premises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48892
+END:VEVENT
+END:VCALENDAR

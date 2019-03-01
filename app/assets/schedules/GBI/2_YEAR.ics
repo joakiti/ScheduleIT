@@ -1,0 +1,1639 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-GBI 2nd year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190204T080000Z
+DTEND:20190204T200000Z
+UID:42488--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Enterprise Systems and 
+ Information Management. 2011005U\, Oliver Kranch
+ er\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 42488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T130000Z
+DTEND:20190131T150000Z
+UID:44457--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44457
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T130000Z
+DTEND:20190207T150000Z
+UID:44458--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44458
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T130000Z
+DTEND:20190214T150000Z
+UID:44459--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44459
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T130000Z
+DTEND:20190221T150000Z
+UID:44460--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44460
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T130000Z
+DTEND:20190228T150000Z
+UID:44461--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44461
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T130000Z
+DTEND:20190307T150000Z
+UID:44462--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44462
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T130000Z
+DTEND:20190314T150000Z
+UID:44463--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44463
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T130000Z
+DTEND:20190321T150000Z
+UID:44464--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T130000Z
+DTEND:20190328T150000Z
+UID:44465--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44465
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T120000Z
+DTEND:20190404T140000Z
+UID:44466--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44466
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T120000Z
+DTEND:20190411T140000Z
+UID:44467--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44467
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T120000Z
+DTEND:20190425T140000Z
+UID:44468--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44468
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T120000Z
+DTEND:20190502T140000Z
+UID:44469--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44469
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:44471--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44471
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:44472--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:44473--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44473
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:44474--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44474
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:44475--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44475
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:44476--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44476
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:44477--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44477
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:44478--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44478
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:44479--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44479
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:44480--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:44481--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44481
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:44482--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44482
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:44483--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44483
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T070000Z
+DTEND:20190130T090000Z
+UID:44570--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44570
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T070000Z
+DTEND:20190206T090000Z
+UID:44571--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44571
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T090000Z
+UID:44572--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44572
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T070000Z
+DTEND:20190220T090000Z
+UID:44573--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44573
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T070000Z
+DTEND:20190227T090000Z
+UID:44574--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44574
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T070000Z
+DTEND:20190306T090000Z
+UID:44575--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44575
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T070000Z
+DTEND:20190313T090000Z
+UID:44576--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44576
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T070000Z
+DTEND:20190320T090000Z
+UID:44577--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44577
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T070000Z
+DTEND:20190327T090000Z
+UID:44578--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44578
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T060000Z
+DTEND:20190403T080000Z
+UID:44579--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44579
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T060000Z
+DTEND:20190410T080000Z
+UID:44580--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44580
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T060000Z
+DTEND:20190424T080000Z
+UID:44581--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44581
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T060000Z
+DTEND:20190501T080000Z
+UID:44582--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44582
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T090000Z
+DTEND:20190130T110000Z
+UID:44583--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44583
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T090000Z
+DTEND:20190206T110000Z
+UID:44584--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44584
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T090000Z
+DTEND:20190213T110000Z
+UID:44585--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44585
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T090000Z
+DTEND:20190220T110000Z
+UID:44586--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44586
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T090000Z
+DTEND:20190227T110000Z
+UID:44587--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44587
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T090000Z
+DTEND:20190306T110000Z
+UID:44588--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44588
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T090000Z
+DTEND:20190313T110000Z
+UID:44589--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44589
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T090000Z
+DTEND:20190320T110000Z
+UID:44590--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44590
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T090000Z
+DTEND:20190327T110000Z
+UID:44591--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44591
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T080000Z
+DTEND:20190403T100000Z
+UID:44592--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44592
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T080000Z
+DTEND:20190410T100000Z
+UID:44593--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44593
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T080000Z
+DTEND:20190424T100000Z
+UID:44594--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44594
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T080000Z
+DTEND:20190501T100000Z
+UID:44595--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44595
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T110000Z
+DTEND:20190129T130000Z
+UID:44596--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44596
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T110000Z
+DTEND:20190205T130000Z
+UID:44597--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44597
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:44598--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44598
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:44599--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44599
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:44600--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44600
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:44601--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44601
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:44602--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44602
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:44603--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44603
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:44604--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44604
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:44605--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44605
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:44606--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44606
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:44607--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44607
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:44608--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T130000Z
+DTEND:20190129T150000Z
+UID:44637--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44637
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T130000Z
+DTEND:20190205T150000Z
+UID:44638--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44638
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T130000Z
+DTEND:20190212T150000Z
+UID:44639--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44639
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T130000Z
+DTEND:20190219T150000Z
+UID:44640--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T130000Z
+DTEND:20190226T150000Z
+UID:44641--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44641
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T130000Z
+DTEND:20190305T150000Z
+UID:44642--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44642
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T130000Z
+DTEND:20190312T150000Z
+UID:44643--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44643
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T130000Z
+DTEND:20190319T150000Z
+UID:44644--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44644
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T130000Z
+DTEND:20190326T150000Z
+UID:44645--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44645
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T120000Z
+DTEND:20190402T140000Z
+UID:44646--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44646
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T120000Z
+DTEND:20190409T140000Z
+UID:44647--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44647
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T120000Z
+DTEND:20190423T140000Z
+UID:44648--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44648
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T120000Z
+DTEND:20190430T140000Z
+UID:44649--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44649
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T070000Z
+DTEND:20190201T090000Z
+UID:44650--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44650
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T070000Z
+DTEND:20190208T090000Z
+UID:44651--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44651
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T070000Z
+DTEND:20190215T090000Z
+UID:44652--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44652
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T070000Z
+DTEND:20190222T090000Z
+UID:44653--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44653
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T070000Z
+DTEND:20190301T090000Z
+UID:44654--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44654
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T070000Z
+DTEND:20190308T090000Z
+UID:44655--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44655
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T070000Z
+DTEND:20190315T090000Z
+UID:44656--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T070000Z
+DTEND:20190322T090000Z
+UID:44657--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44657
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T070000Z
+DTEND:20190329T090000Z
+UID:44658--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44658
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T060000Z
+DTEND:20190405T080000Z
+UID:44659--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44659
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T060000Z
+DTEND:20190412T080000Z
+UID:44660--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44660
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T060000Z
+DTEND:20190426T080000Z
+UID:44661--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44661
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T060000Z
+DTEND:20190503T080000Z
+UID:44662--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44662
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T090000Z
+DTEND:20190201T110000Z
+UID:44663--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44663
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T090000Z
+DTEND:20190208T110000Z
+UID:44664--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:44665--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44665
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:44666--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:44667--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44667
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:44668--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44668
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:44669--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44669
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:44670--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44670
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:44671--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44671
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:44672--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44672
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:44673--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44673
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:44674--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44674
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:44675--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44675
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:44732--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004
+ U\, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44732
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T120000Z
+DTEND:20190507T140000Z
+UID:44733--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2011004U
+ \, Name: Hugo-Andres Lopes-Acosta\, Name: Jonas Valbjørn Andersen\
+ , Programme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A20\, Room: 4A22\, Room: 4A54
+DESCRIPTION:ID 44733
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T060000Z
+DTEND:20190508T080000Z
+UID:44734--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44734
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T080000Z
+DTEND:20190508T100000Z
+UID:44735--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44735
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:44736--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, Pro
+ gramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44736
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T060000Z
+DTEND:20190510T080000Z
+UID:44737--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012
+ 002U\, Name: Kristian Steen Holme\, Name: Oliver Krancher\, P
+ rogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44737
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:44752--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technolog
+ y. 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T120000Z
+DTEND:20190509T140000Z
+UID:44753--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology
+ . 2012003U\, Name: Lasse Blond\, Name: Vasileios Galis\, Prog
+ ramme: GBI 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 44753
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46847--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Enterprise Systems and Information M
+ anagement. 2011005U\, Alexander Karl Michael Richter\, Oliver
+  Krancher\, Programme: GBI 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46847
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46864--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Organisation and Process Theo
+ ry. 2011006U\, Christopher Gad\, James Høvsgaard Magui
+ re\, Programme: GBI 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46864
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190516T060000Z
+DTEND:20190516T120000Z
+UID:47079--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Tec
+ hnology. 2012003U\, Lasse Blond\, Vasileios Galis\, Pr
+ ogramme: GBI 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47079
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190531T060000Z
+DTEND:20190531T120000Z
+UID:47080--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 2012002U\
+ , Alexander Karl Michael Richter\, Kristian Steen Holme\, Oliver K
+ rancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47080
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T070000Z
+DTEND:20190625T190000Z
+UID:47082--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47082
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190624T070000Z
+DTEND:20190624T190000Z
+UID:47083--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47083
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190621T070000Z
+DTEND:20190621T190000Z
+UID:47085--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47085
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190620T070000Z
+DTEND:20190620T190000Z
+UID:47086--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47086
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190628T070000Z
+DTEND:20190628T190000Z
+UID:47087--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47087
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T070000Z
+DTEND:20190627T190000Z
+UID:47088--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T070000Z
+DTEND:20190626T190000Z
+UID:47089--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT-enabled Process Improvement. 20120
+ 02U\, Alexander Karl Michael Richter\, Kristian Steen Holme\, 
+ Oliver Krancher\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47089
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190524T060000Z
+DTEND:20190524T120000Z
+UID:47094--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modelling. 2
+ 011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn Anderse
+ n\, Programme: GBI 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47094
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T070000Z
+DTEND:20190617T190000Z
+UID:47096--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modellin
+ g. 2011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn
+  Andersen\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 47096
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T070000Z
+DTEND:20190614T190000Z
+UID:47274--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modellin
+ g. 2011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn
+  Andersen\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 47274
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T070000Z
+DTEND:20190613T190000Z
+UID:47275--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modellin
+ g. 2011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn
+  Andersen\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 47275
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T070000Z
+DTEND:20190618T190000Z
+UID:47276--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modellin
+ g. 2011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn
+  Andersen\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 47276
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T070000Z
+DTEND:20190619T190000Z
+UID:47277--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : IT & Business Process Modellin
+ g. 2011004U\, Hugo-Andres Lopes-Acosta\, Jonas Valbjørn
+  Andersen\, Programme: GBI 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 47277
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T074500Z
+DTEND:20190304T110000Z
+UID:48549--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Enterprise Systems an
+ d Information Management. 2011005U\, Oliver Kr
+ ancher\, Programme: GBI 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 48549
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T081500Z
+DTEND:20190311T093500Z
+UID:48550--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Organisation and Process Theory. 20110
+ 06U\, Christopher Gad\, Programme: GBI 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 48550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T090000Z
+DTEND:20190404T100000Z
+UID:48565--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Philosophy of Science and Technology. 20
+ 12003U\, Name: Steffen Dalsgaard\, Programme: GBI 2nd year\, Cour
+ se type: Mandatory\,  Activity: Meeting\, Semester meeting - GBI 2nd year
+LOCATION:Room: 4A58
+DESCRIPTION:ID 48565
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T140000Z
+DTEND:20190307T155500Z
+UID:48608--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Entrepreneurship and 
+ Business Decisions. BBENBUD1KU\, Melina Kiwa S
+ øderberg\, Programme: GBI 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 48608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T070000Z
+DTEND:20190325T103000Z
+UID:48844--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Business Foundation
+ s. 2012001U\, Michelle Andersen\, Programme:
+  GBI 2nd year\,  Activity: Reexam\, Preparation room
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48844
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T070000Z
+DTEND:20190325T103000Z
+UID:48845--425819232-0@timeedit.com
+DTSTAMP:20190301T214728Z
+LAST-MODIFIED:20190301T214728Z
+SUMMARY:Study Activity\,  : Business Foundations. 2012001U\, Bent
+  Steenholt Kragelund\, Programme: GBI 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A54
+DESCRIPTION:ID 48845
+END:VEVENT
+END:VCALENDAR

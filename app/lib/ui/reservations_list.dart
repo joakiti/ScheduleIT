@@ -49,6 +49,7 @@ class ReservationListState extends State<ReservationList> {
   Widget buildTitle(DateTime startTime) {
     String calenderDay = startTime.day.toString();
     String calenderMonth = startTime.month.toString();
+
     String weekDay;
     switch(startTime.weekday) {
       case 1: {
@@ -121,7 +122,7 @@ class ReservationListState extends State<ReservationList> {
             date = reservation.startDate;
             wrapper = buildTitle(date);
           }
-          if (reservation.startDate.difference(date) > Duration()) {
+          if (reservation.startDate.difference(date) > Duration(hours: 10)) {
             date = reservation.startDate;
             wrapper = buildTitle(date);
           }

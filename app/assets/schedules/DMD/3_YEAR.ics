@@ -1,0 +1,837 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-DMD 3rd year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190129T090000Z
+DTEND:20190129T110000Z
+UID:45240--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45240
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T090000Z
+DTEND:20190205T110000Z
+UID:45241--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45241
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:45242--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45242
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:45243--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45243
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:45244--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45244
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:45245--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45245
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:45246--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45246
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:45247--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45247
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:45248--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45248
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:45249--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45249
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:45250--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45250
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:45251--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45251
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:45252--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45252
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:45253--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA1
+ KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, Pro
+ gramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A22\, Room: 4A54\, Room: 4A58
+DESCRIPTION:ID 45253
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T070000Z
+DTEND:20190129T090000Z
+UID:45282--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45282
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T070000Z
+DTEND:20190205T090000Z
+UID:45283--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45283
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T070000Z
+DTEND:20190212T090000Z
+UID:45284--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45284
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T070000Z
+DTEND:20190219T090000Z
+UID:45285--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45285
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T070000Z
+DTEND:20190226T090000Z
+UID:45286--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45286
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T070000Z
+DTEND:20190305T090000Z
+UID:45287--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45287
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T070000Z
+DTEND:20190312T090000Z
+UID:45288--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45288
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T070000Z
+DTEND:20190319T090000Z
+UID:45289--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45289
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T070000Z
+DTEND:20190326T090000Z
+UID:45290--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45290
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T060000Z
+DTEND:20190402T080000Z
+UID:45291--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45291
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T060000Z
+DTEND:20190409T080000Z
+UID:45292--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45292
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T060000Z
+DTEND:20190423T080000Z
+UID:45293--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45293
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T060000Z
+DTEND:20190430T080000Z
+UID:45294--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45294
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T060000Z
+DTEND:20190507T080000Z
+UID:45295--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. BAEBIVA
+ 1KU\, Name: Lene Nielsen\, Name: Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45295
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46843--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Designing Digital Play. BADEDI
+ P1KU\, Miguel Angel Sicart Vila\, Programme: DMD 2nd ye
+ ar\, Programme: DMD 3rd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46843
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46856--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Kvalitative forskningsmetoder og akademis
+ k formidling. BAKVFAF1KU\, Rune Kristian Lundedal Nielsen\, Signe 
+ Louise Yndigegn\, Programme: DMD 3rd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46856
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46862--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Network Society. 1914008U\, C
+ hristina Neumayer\, Luca Rossi\, Programme: DMD 2nd ye
+ ar\, Programme: DMD 3rd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46862
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T070000Z
+DTEND:20190611T190000Z
+UID:47177--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætter
+ i. BAEBIVA1KU\, Lene Nielsen\, Thore Jon Fogh Joha
+ nsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47177
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T070000Z
+DTEND:20190612T190000Z
+UID:47181--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætter
+ i. BAEBIVA1KU\, Lene Nielsen\, Thore Jon Fogh Joha
+ nsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47181
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T070000Z
+DTEND:20190613T190000Z
+UID:47182--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætter
+ i. BAEBIVA1KU\, Lene Nielsen\, Thore Jon Fogh Joha
+ nsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47182
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T070000Z
+DTEND:20190614T190000Z
+UID:47183--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætter
+ i. BAEBIVA1KU\, Lene Nielsen\, Thore Jon Fogh Joha
+ nsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47183
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190531T060000Z
+DTEND:20190531T120000Z
+UID:47195--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. BABAFRE1KU\, Anne 
+ Sophie Witzke\, Hanne-Louise Johannesen\, Rune Kristian Lundedal N
+ ielsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47195
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190624T070000Z
+DTEND:20190624T190000Z
+UID:47197--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. BABAFRE1KU\, 
+ Anne Sophie Witzke\, Hanne-Louise Johannesen\, Rune Kristian 
+ Lundedal Nielsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47197
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190520T060000Z
+DTEND:20190520T120000Z
+UID:47200--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : E-business og iværksætteri. B
+ AEBIVA1KU\, Lene Nielsen\, Thore Jon Fogh Johansen\, P
+ rogramme: DMD 3rd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T070000Z
+DTEND:20190625T190000Z
+UID:47201--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. BABAFRE1KU\, 
+ Anne Sophie Witzke\, Hanne-Louise Johannesen\, Rune Kristian 
+ Lundedal Nielsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47201
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T070000Z
+DTEND:20190626T190000Z
+UID:47202--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. BABAFRE1KU\, 
+ Anne Sophie Witzke\, Hanne-Louise Johannesen\, Rune Kristian 
+ Lundedal Nielsen\, Programme: DMD 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47202
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:47985--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47985
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:47986--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47986
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:47987--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47987
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:47988--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47988
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:47989--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47989
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:47990--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47990
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:47991--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47991
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:47992--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:47993--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47993
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:47994--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47994
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:47995--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:47996--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47996
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:47997--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:47998--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. 
+ BABAFRE1KU\, Name: Louise Glud \, Programme: DMD
+  3rd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T130000Z
+DTEND:20190131T150000Z
+UID:47999--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T130000Z
+DTEND:20190207T150000Z
+UID:48000--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T130000Z
+DTEND:20190214T150000Z
+UID:48001--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48001
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T130000Z
+DTEND:20190221T150000Z
+UID:48002--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48002
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T130000Z
+DTEND:20190228T150000Z
+UID:48003--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48003
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T130000Z
+DTEND:20190307T150000Z
+UID:48004--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48004
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T130000Z
+DTEND:20190314T150000Z
+UID:48005--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T130000Z
+DTEND:20190321T150000Z
+UID:48006--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T130000Z
+DTEND:20190328T150000Z
+UID:48007--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T120000Z
+DTEND:20190404T140000Z
+UID:48008--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T120000Z
+DTEND:20190411T140000Z
+UID:48009--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T120000Z
+DTEND:20190425T140000Z
+UID:48010--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48010
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T120000Z
+DTEND:20190502T140000Z
+UID:48011--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48011
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T120000Z
+DTEND:20190509T140000Z
+UID:48012--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. B
+ ABAFRE1KU\, Name: Louise Glud \, Programme: DMD 3
+ rd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 48012
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T093000Z
+DTEND:20190228T103000Z
+UID:48675--425819232-0@timeedit.com
+DTSTAMP:20190301T214219Z
+LAST-MODIFIED:20190301T214219Z
+SUMMARY:Study Activity\,  : Bæredygtige fremtider. BABAFRE1
+ KU\, Name: Jörn Anders Georg Messeter\, Programme: DMD 3
+ rd year\,  Activity: Meeting\, Semester meeting - DMD 3rd year
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48675
+END:VEVENT
+END:VCALENDAR

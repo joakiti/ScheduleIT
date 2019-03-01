@@ -101,6 +101,10 @@ flutter:
     - assets/Apes/
     - assets/Constructive_Tools/
     - assets/Fire/
+    - assets/schedules/SWU/
+    - assets/schedules/DMD/
+    - assets/schedules/DS/
+    - assets/schedules/GBI/
     # - assets/search_icon.png
     # - assets/flutter_logo.png
     # - assets/right_arrow.png

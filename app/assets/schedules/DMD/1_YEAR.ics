@@ -1,0 +1,1536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-BDDIT - 1st year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190213T090000Z
+DTEND:20190213T110000Z
+UID:44916--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44916
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T090000Z
+DTEND:20190220T110000Z
+UID:44917--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44917
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T090000Z
+DTEND:20190227T110000Z
+UID:44918--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44918
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T090000Z
+DTEND:20190306T110000Z
+UID:44919--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44919
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T090000Z
+DTEND:20190313T110000Z
+UID:44920--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T090000Z
+DTEND:20190320T110000Z
+UID:44921--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44921
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T090000Z
+DTEND:20190327T110000Z
+UID:44922--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44922
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T080000Z
+DTEND:20190403T100000Z
+UID:44923--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44923
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T080000Z
+DTEND:20190410T100000Z
+UID:44924--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44924
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T080000Z
+DTEND:20190424T100000Z
+UID:44925--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44925
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T080000Z
+DTEND:20190501T100000Z
+UID:44926--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44926
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T080000Z
+DTEND:20190508T100000Z
+UID:44927--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44927
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T110000Z
+DTEND:20190213T130000Z
+UID:44946--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44946
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T110000Z
+DTEND:20190220T130000Z
+UID:44947--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44947
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T110000Z
+DTEND:20190227T130000Z
+UID:44948--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44948
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T110000Z
+DTEND:20190306T120000Z
+UID:44949--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44949
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T110000Z
+DTEND:20190313T130000Z
+UID:44950--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44950
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T110000Z
+DTEND:20190320T130000Z
+UID:44951--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44951
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T110000Z
+DTEND:20190327T130000Z
+UID:44952--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44952
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T100000Z
+DTEND:20190403T120000Z
+UID:44953--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44953
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T100000Z
+DTEND:20190410T120000Z
+UID:44954--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44954
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T100000Z
+DTEND:20190424T120000Z
+UID:44955--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44955
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T100000Z
+DTEND:20190501T120000Z
+UID:44956--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44956
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T100000Z
+DTEND:20190508T120000Z
+UID:44957--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 44957
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:44988--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44988
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:44989--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44989
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:44990--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44990
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:44991--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44991
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:44992--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:44993--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44993
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:44994--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44994
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:44995--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:44996--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44996
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:44997--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:44998--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:44999--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 44999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T110000Z
+DTEND:20190215T130000Z
+UID:45002--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45002
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T110000Z
+DTEND:20190222T130000Z
+UID:45003--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45003
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T110000Z
+DTEND:20190301T130000Z
+UID:45004--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45004
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T110000Z
+DTEND:20190308T130000Z
+UID:45005--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T110000Z
+DTEND:20190315T130000Z
+UID:45006--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T110000Z
+DTEND:20190322T130000Z
+UID:45007--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T110000Z
+DTEND:20190329T130000Z
+UID:45008--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T100000Z
+DTEND:20190405T120000Z
+UID:45009--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T100000Z
+DTEND:20190412T120000Z
+UID:45010--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45010
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T100000Z
+DTEND:20190426T120000Z
+UID:45011--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45011
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T100000Z
+DTEND:20190503T120000Z
+UID:45012--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45012
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T100000Z
+DTEND:20190510T120000Z
+UID:45013--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45013
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:45016--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45016
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:45017--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45017
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:45018--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45018
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:45019--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45019
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:45020--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45020
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:45021--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45021
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:45022--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45022
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:45023--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:45024--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:45025--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:45026--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:45027--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45027
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:45030--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45030
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:45031--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45031
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:45032--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45032
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:45033--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45033
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:45034--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45034
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:45035--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:45036--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45036
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:45037--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45037
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:45038--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45038
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:45039--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45039
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:45040--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45040
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:45041--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og int
+ eraktive artefakter. BADIMIA1KU\, Name: Mogens Jak
+ obsen\, Name: Tomas Ferry Sokoler\, Programme: BDD
+ IT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A14-16
+DESCRIPTION:ID 45041
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T110000Z
+DTEND:20190211T130000Z
+UID:45400--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T110000Z
+DTEND:20190218T130000Z
+UID:45401--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T110000Z
+DTEND:20190225T130000Z
+UID:45402--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45402
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T110000Z
+DTEND:20190304T130000Z
+UID:45403--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45403
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T110000Z
+DTEND:20190311T130000Z
+UID:45404--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45404
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T110000Z
+DTEND:20190318T130000Z
+UID:45405--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45405
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T110000Z
+DTEND:20190325T130000Z
+UID:45406--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45406
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T100000Z
+DTEND:20190401T120000Z
+UID:45407--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45407
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T100000Z
+DTEND:20190408T120000Z
+UID:45408--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T100000Z
+DTEND:20190415T120000Z
+UID:45409--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45409
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T100000Z
+DTEND:20190429T120000Z
+UID:45410--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45410
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T100000Z
+DTEND:20190506T120000Z
+UID:45411--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45411
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T130000Z
+DTEND:20190211T150000Z
+UID:45414--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45414
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T130000Z
+DTEND:20190218T150000Z
+UID:45415--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45415
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T130000Z
+DTEND:20190225T150000Z
+UID:45416--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45416
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T130000Z
+DTEND:20190304T150000Z
+UID:45417--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T130000Z
+DTEND:20190311T150000Z
+UID:45418--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45418
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T130000Z
+DTEND:20190318T150000Z
+UID:45419--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45419
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T130000Z
+DTEND:20190325T150000Z
+UID:45420--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45420
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T120000Z
+DTEND:20190401T140000Z
+UID:45421--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45421
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T120000Z
+DTEND:20190408T140000Z
+UID:45422--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T120000Z
+DTEND:20190415T140000Z
+UID:45423--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45423
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T120000Z
+DTEND:20190429T140000Z
+UID:45424--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T120000Z
+DTEND:20190506T140000Z
+UID:45425--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Brugerundersøgelser og kvantitati
+ ve metoder. BABRKVM1KU\, Name: Thomas Bärtschi\, Programme
+ : BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 45425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46845--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital Design and Interacti
+ ve Technologies - Foundations. BADDITI1KU\, Jörn Ande
+ rs Georg Messeter\, Laurens Merijn Boer\, Luca Rossi\
+ , Programme: BDDIT - 1st year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46845
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T070000Z
+DTEND:20190212T090000Z
+UID:48649--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48649
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T070000Z
+DTEND:20190219T090000Z
+UID:48650--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48650
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T070000Z
+DTEND:20190226T090000Z
+UID:48651--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48651
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T070000Z
+DTEND:20190305T090000Z
+UID:48652--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48652
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T070000Z
+DTEND:20190312T090000Z
+UID:48653--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48653
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T070000Z
+DTEND:20190319T090000Z
+UID:48654--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48654
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T070000Z
+DTEND:20190326T090000Z
+UID:48655--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48655
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T060000Z
+DTEND:20190402T080000Z
+UID:48656--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T060000Z
+DTEND:20190409T080000Z
+UID:48657--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48657
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T060000Z
+DTEND:20190423T080000Z
+UID:48658--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48658
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T060000Z
+DTEND:20190430T080000Z
+UID:48659--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48659
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T060000Z
+DTEND:20190507T080000Z
+UID:48660--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48660
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T090000Z
+DTEND:20190214T110000Z
+UID:48661--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48661
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T090000Z
+DTEND:20190221T110000Z
+UID:48662--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48662
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T090000Z
+DTEND:20190228T110000Z
+UID:48663--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48663
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T090000Z
+DTEND:20190307T110000Z
+UID:48664--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T090000Z
+DTEND:20190314T110000Z
+UID:48665--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48665
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T090000Z
+DTEND:20190321T110000Z
+UID:48666--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T090000Z
+DTEND:20190328T110000Z
+UID:48667--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48667
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T080000Z
+DTEND:20190404T100000Z
+UID:48668--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48668
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T080000Z
+DTEND:20190411T100000Z
+UID:48669--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48669
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T080000Z
+DTEND:20190425T100000Z
+UID:48670--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48670
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T080000Z
+DTEND:20190502T100000Z
+UID:48671--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48671
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T080000Z
+DTEND:20190509T100000Z
+UID:48672--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Study Ass
+ istance\, Programme: BDDIT - 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48672
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T080000Z
+DTEND:20190220T090000Z
+UID:48673--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADI
+ KUM1KU\, Name: Jörn Anders Georg Messeter\, Programme: 
+ BDDIT - 1st year\,  Activity: Meeting\, Semester meeting BDDIT
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48673
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T140000Z
+DTEND:20190304T180000Z
+UID:48687--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Introduction to Programming. BAINPRO
+ 1KU\, Study Activity\,  : Introduction to Programming. BBINPR
+ O1KU-1\, Jan Daniel Cermak\, Martin Aumüller\, Programme: BDD
+ IT - 1st year\, Programme: GBI 1st year\,  Activity: Reexam - on premises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48687
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T130000Z
+DTEND:20190226T140000Z
+UID:48778--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digitalt materiale og interakt
+ ive artefakter. BADIMIA1KU\, Name: Jörn Anders Georg Me
+ sseter\, Programme: BDDIT - 1st year\, Course type: Man
+ datory\,  Activity: Meeting\, BDDIT - First year semester meeting
+LOCATION:Room: 2A54
+DESCRIPTION:ID 48778
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T120000Z
+DTEND:20190306T130000Z
+UID:48908--425819232-0@timeedit.com
+DTSTAMP:20190301T213725Z
+LAST-MODIFIED:20190301T213725Z
+SUMMARY:Study Activity\,  : Digital kultur og medier. BADIKUM1K
+ U\, Name: Kristian Møller\, Name: Lisbeth Klastrup\, Program
+ me: BDDIT - 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54\, Room: 4A58
+DESCRIPTION:ID 48908
+END:VEVENT
+END:VCALENDAR

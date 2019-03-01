@@ -1,0 +1,2794 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-SWU 1st year-20190225
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190130T070000Z
+DTEND:20190130T090000Z
+UID:43983--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflad
+ er. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjar
+ ke Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lu
+ ngu\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43983
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T070000Z
+DTEND:20190206T090000Z
+UID:43984--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43984
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T090000Z
+UID:43985--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43985
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T070000Z
+DTEND:20190220T090000Z
+UID:43986--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43986
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T070000Z
+DTEND:20190227T090000Z
+UID:43987--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43987
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T070000Z
+DTEND:20190306T090000Z
+UID:43988--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43988
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T070000Z
+DTEND:20190313T090000Z
+UID:43989--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43989
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T070000Z
+DTEND:20190320T090000Z
+UID:43990--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43990
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T070000Z
+DTEND:20190327T090000Z
+UID:43991--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43991
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T060000Z
+DTEND:20190403T080000Z
+UID:43992--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T060000Z
+DTEND:20190410T080000Z
+UID:43993--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43993
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T060000Z
+DTEND:20190424T080000Z
+UID:43994--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43994
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T060000Z
+DTEND:20190501T080000Z
+UID:43995--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T060000Z
+DTEND:20190508T080000Z
+UID:43996--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænse
+ flader. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Pr
+ ogramme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 43996
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T090000Z
+DTEND:20190130T110000Z
+UID:43997--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 43997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T090000Z
+DTEND:20190206T110000Z
+UID:43998--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 43998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T090000Z
+DTEND:20190213T110000Z
+UID:43999--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 43999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T090000Z
+DTEND:20190220T110000Z
+UID:44000--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T090000Z
+DTEND:20190227T110000Z
+UID:44001--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44001
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T090000Z
+DTEND:20190306T110000Z
+UID:44002--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44002
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T090000Z
+DTEND:20190313T110000Z
+UID:44003--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44003
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T090000Z
+DTEND:20190320T110000Z
+UID:44004--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44004
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T090000Z
+DTEND:20190327T110000Z
+UID:44005--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T080000Z
+DTEND:20190403T100000Z
+UID:44006--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T080000Z
+DTEND:20190410T100000Z
+UID:44007--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T080000Z
+DTEND:20190424T100000Z
+UID:44008--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T080000Z
+DTEND:20190501T100000Z
+UID:44009--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T080000Z
+DTEND:20190508T100000Z
+UID:44010--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af brugergrænseflade
+ r. 1407002U\, Name: Allan Nicholas Søgaard Larsen\, Name: Bjarke
+  Aaby Daugaard\, Name: Jacob Michael Avlund\, Name: Mircea Lungu
+ \, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44010
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T090000Z
+DTEND:20190129T110000Z
+UID:44011--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44011
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T090000Z
+DTEND:20190205T110000Z
+UID:44012--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44012
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:44013--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44013
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:44014--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44014
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:44015--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: ScrollBar (0E01)
+DESCRIPTION:ID 44015
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:44016--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44016
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:44017--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44017
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:44018--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44018
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:44019--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44019
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:44020--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44020
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:44021--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44021
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:44022--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44022
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:44023--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:44024--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T110000Z
+DTEND:20190129T130000Z
+UID:44025--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T110000Z
+DTEND:20190205T130000Z
+UID:44026--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:44027--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44027
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:44028--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44028
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:44029--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 
+ 3A54\, Room: 4A54\, Room: ScrollBar (0E01)
+DESCRIPTION:ID 44029
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:44030--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44030
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:44031--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44031
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:44032--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44032
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:44033--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44033
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:44034--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44034
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:44035--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:44036--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44036
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:44037--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44037
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:44038--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A18\, Room: 3A52\, Room: 3A54\, Room: 4A54
+DESCRIPTION:ID 44038
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:44039--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44039
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:44040--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44040
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:44041--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44041
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:44042--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44042
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:44043--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44043
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:44044--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44044
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:44045--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44045
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:44046--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44046
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:44047--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44047
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:44048--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:44049--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44049
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:44050--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44050
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:44051--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44051
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:44052--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44052
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T130000Z
+DTEND:20190131T150000Z
+UID:44053--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44053
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T130000Z
+DTEND:20190207T150000Z
+UID:44054--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44054
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T130000Z
+DTEND:20190214T150000Z
+UID:44055--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44055
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T130000Z
+DTEND:20190221T150000Z
+UID:44056--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44056
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T130000Z
+DTEND:20190228T150000Z
+UID:44057--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44057
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T130000Z
+DTEND:20190307T150000Z
+UID:44058--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44058
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T130000Z
+DTEND:20190314T150000Z
+UID:44059--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44059
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T130000Z
+DTEND:20190321T150000Z
+UID:44060--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44060
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T130000Z
+DTEND:20190328T150000Z
+UID:44061--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44061
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T120000Z
+DTEND:20190404T140000Z
+UID:44062--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44062
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T120000Z
+DTEND:20190411T140000Z
+UID:44063--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44063
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T120000Z
+DTEND:20190425T140000Z
+UID:44064--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T120000Z
+DTEND:20190502T140000Z
+UID:44065--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44065
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T120000Z
+DTEND:20190509T140000Z
+UID:44066--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmark
+ skort. Visualisering\, Navigation\, Søgning og Rut
+ e. 1413001U\, Name: Troels Bjerre Lund\, Programme
+ : SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44066
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T090000Z
+DTEND:20190128T110000Z
+UID:44198--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44198
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T090000Z
+DTEND:20190204T110000Z
+UID:44199--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44199
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T090000Z
+DTEND:20190211T110000Z
+UID:44200--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T090000Z
+DTEND:20190218T110000Z
+UID:44201--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44201
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T090000Z
+DTEND:20190225T110000Z
+UID:44202--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44202
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T090000Z
+DTEND:20190304T110000Z
+UID:44203--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T090000Z
+DTEND:20190311T110000Z
+UID:44204--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44204
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T090000Z
+DTEND:20190318T110000Z
+UID:44205--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44205
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T090000Z
+DTEND:20190325T110000Z
+UID:44206--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44206
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T080000Z
+DTEND:20190401T100000Z
+UID:44207--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44207
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T080000Z
+DTEND:20190408T100000Z
+UID:44208--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T080000Z
+DTEND:20190429T100000Z
+UID:44210--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44210
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T080000Z
+DTEND:20190506T100000Z
+UID:44211--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44211
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T090000Z
+DTEND:20190201T110000Z
+UID:44213--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44213
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T090000Z
+DTEND:20190208T110000Z
+UID:44214--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44214
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:44215--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:44216--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:44217--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44217
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:44218--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44218
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:44219--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44219
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:44220--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44220
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:44221--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44221
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:44222--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44222
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:44223--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44223
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:44224--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44224
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:44225--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44225
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:44226--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A54\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44226
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T150000Z
+DTEND:20190131T170000Z
+UID:44227--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44227
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T150000Z
+DTEND:20190207T170000Z
+UID:44228--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44228
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T150000Z
+DTEND:20190214T170000Z
+UID:44229--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44229
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T150000Z
+DTEND:20190221T170000Z
+UID:44230--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44230
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T150000Z
+DTEND:20190228T170000Z
+UID:44231--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44231
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T150000Z
+DTEND:20190307T170000Z
+UID:44232--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T150000Z
+DTEND:20190314T170000Z
+UID:44233--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44233
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T150000Z
+DTEND:20190321T170000Z
+UID:44234--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44234
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T150000Z
+DTEND:20190328T170000Z
+UID:44235--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44235
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T140000Z
+DTEND:20190404T160000Z
+UID:44236--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44236
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T140000Z
+DTEND:20190411T160000Z
+UID:44237--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44237
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T140000Z
+DTEND:20190425T160000Z
+UID:44238--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44238
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T140000Z
+DTEND:20190502T160000Z
+UID:44239--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44239
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T140000Z
+DTEND:20190509T160000Z
+UID:44240--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 4A20\, Room: 4A54
+DESCRIPTION:ID 44240
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T110000Z
+DTEND:20190130T130000Z
+UID:44255--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44255
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T110000Z
+DTEND:20190206T130000Z
+UID:44256--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T110000Z
+DTEND:20190213T130000Z
+UID:44257--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44257
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T110000Z
+DTEND:20190220T130000Z
+UID:44258--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44258
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T110000Z
+DTEND:20190227T130000Z
+UID:44259--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T110000Z
+DTEND:20190306T130000Z
+UID:44260--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44260
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T110000Z
+DTEND:20190313T130000Z
+UID:44261--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44261
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T110000Z
+DTEND:20190320T130000Z
+UID:44262--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44262
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T110000Z
+DTEND:20190327T130000Z
+UID:44263--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T100000Z
+DTEND:20190403T120000Z
+UID:44264--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44264
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T100000Z
+DTEND:20190410T120000Z
+UID:44265--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44265
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T100000Z
+DTEND:20190508T120000Z
+UID:44268--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 44268
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T080000Z
+DTEND:20190415T100000Z
+UID:44513--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44513
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T100000Z
+DTEND:20190424T120000Z
+UID:46758--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 140
+ 8001U\, Study Activity\,  : Algorithms and Data Structures. 
+ BSALDAS1KU\, Study Activity\,  : Algorithms and Data Structu
+ res. KSALDAS1KU\, Study Activity\,  : Foundations of Computi
+ ng - Algorithms and Data Structures. 1010004U\, Name: Riko J
+ acob\, Name: Thore Husfeldt\, Programme: DS 1st year\, Progr
+ amme: SDT - Software Design SD\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 1st year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 4A14-16\, Room: 5A14-16
+DESCRIPTION:ID 46758
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46852--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Grundlæggende programmering. BS
+ GRPRO1KU\, Claus Brabrand\, Dan Witzner Hansen\, Signe K
+ yster\, Programme: SWU 1st year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46852
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190520T070000Z
+DTEND:20190520T110000Z
+UID:46977--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Algorithms and Data Structures. 1408001U\
+ , Study Activity\,  : Algorithms and Data Structures. BSALDAS1KU\,
+  Study Activity\,  : Algorithms and Data Structures. KSALDAS1KU\, 
+ Study Activity\,  : Foundations of Computing - Algorithms and Data
+  Structures. 1010004U\, Riko Jacob\, Thore Husfeldt\, Programme: D
+ S 1st year\, Programme: SDT - Software Design SD\, Programme: SDT 
+ - Software Development\, Programme: SWU 1st year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 2A52\, Room: 2A54\, R
+ oom: 3A12-14\, Room: 3A52\, Room: 3A54\, Room: 4A
+ 14-16\, Room: 4A20\, Room: 4A22\, Room: 4A58\, Room: 5A60
+DESCRIPTION:ID 46977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190529T070000Z
+DTEND:20190529T110000Z
+UID:46991--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 
+ 1010003U\, Study Activity\,  : Introduction to Database De
+ sign. BSINDAD1KU\, Study Activity\,  : Introduction to Dat
+ abase Design. KSINDAD1KU\, Björn Thor Jonsson\, Programme:
+  SDT - Software Design SD\, Programme: SDT - Software Deve
+ lopment\, Programme: SWU 1st year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 3A12-14\, Room: 4A14-16
+DESCRIPTION:ID 46991
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190516T060000Z
+DTEND:20190516T120000Z
+UID:47021--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Visuali
+ sering\, Navigation\, Søgning og Rute. 1413001U\, Troels Bjerre 
+ Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47021
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T070000Z
+DTEND:20190603T190000Z
+UID:47022--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47022
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T070000Z
+DTEND:20190604T190000Z
+UID:47023--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T070000Z
+DTEND:20190611T190000Z
+UID:47024--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190606T070000Z
+DTEND:20190606T190000Z
+UID:47025--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T070000Z
+DTEND:20190607T190000Z
+UID:47026--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T070000Z
+DTEND:20190612T190000Z
+UID:47027--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47027
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T070000Z
+DTEND:20190613T190000Z
+UID:47028--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Førsteårsprojekt: Danmarkskort. Vi
+ sualisering\, Navigation\, Søgning og Rute. 1413001U\, Troe
+ ls Bjerre Lund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A54
+DESCRIPTION:ID 47028
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T060000Z
+DTEND:20190527T120000Z
+UID:47029--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af bruge
+ rgrænseflader. 1407002U\, Allan Nicholas Søgaard Lar
+ sen\, Bjarke Aaby Daugaard\, Jacob Michael Avlund\, 
+ Programme: SWU 1st year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47029
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T070000Z
+DTEND:20190617T190000Z
+UID:47030--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47030
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T070000Z
+DTEND:20190618T190000Z
+UID:47031--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47031
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T070000Z
+DTEND:20190619T190000Z
+UID:47032--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47032
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190620T070000Z
+DTEND:20190620T190000Z
+UID:47033--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47033
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190621T070000Z
+DTEND:20190621T190000Z
+UID:47034--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47034
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190624T070000Z
+DTEND:20190624T190000Z
+UID:47035--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T070000Z
+DTEND:20190625T190000Z
+UID:47036--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47036
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T070000Z
+DTEND:20190626T190000Z
+UID:47037--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47037
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T070000Z
+DTEND:20190627T190000Z
+UID:47038--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47038
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190628T070000Z
+DTEND:20190628T190000Z
+UID:47039--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Systematisk design af br
+ ugergrænseflader. 1407002U\, Allan Nicholas Søgaa
+ rd Larsen\, Bjarke Aaby Daugaard\, Jacob Michael 
+ Avlund\, Programme: SWU 1st year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A58
+DESCRIPTION:ID 47039
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T110000Z
+DTEND:20190128T130000Z
+UID:48380--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48380
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T110000Z
+DTEND:20190204T130000Z
+UID:48381--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48381
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T110000Z
+DTEND:20190211T130000Z
+UID:48382--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48382
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T110000Z
+DTEND:20190218T130000Z
+UID:48383--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48383
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T110000Z
+DTEND:20190225T130000Z
+UID:48384--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T110000Z
+DTEND:20190304T130000Z
+UID:48385--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48385
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T110000Z
+DTEND:20190311T130000Z
+UID:48386--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48386
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T110000Z
+DTEND:20190318T130000Z
+UID:48387--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48387
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T110000Z
+DTEND:20190325T130000Z
+UID:48388--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48388
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T100000Z
+DTEND:20190401T120000Z
+UID:48389--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48389
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T100000Z
+DTEND:20190408T120000Z
+UID:48390--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48390
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T100000Z
+DTEND:20190415T120000Z
+UID:48391--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48391
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T100000Z
+DTEND:20190429T120000Z
+UID:48392--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T100000Z
+DTEND:20190506T120000Z
+UID:48393--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48393
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T130000Z
+DTEND:20190129T150000Z
+UID:48408--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T130000Z
+DTEND:20190205T150000Z
+UID:48409--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48409
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T130000Z
+DTEND:20190212T150000Z
+UID:48410--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48410
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T130000Z
+DTEND:20190219T150000Z
+UID:48411--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48411
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T130000Z
+DTEND:20190226T150000Z
+UID:48412--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48412
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T130000Z
+DTEND:20190305T150000Z
+UID:48413--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48413
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T130000Z
+DTEND:20190312T150000Z
+UID:48414--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48414
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T130000Z
+DTEND:20190319T150000Z
+UID:48415--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48415
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T130000Z
+DTEND:20190326T150000Z
+UID:48416--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48416
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T120000Z
+DTEND:20190402T140000Z
+UID:48417--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T120000Z
+DTEND:20190409T140000Z
+UID:48418--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48418
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T120000Z
+DTEND:20190423T140000Z
+UID:48419--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48419
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T120000Z
+DTEND:20190430T140000Z
+UID:48420--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48420
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T120000Z
+DTEND:20190507T140000Z
+UID:48421--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48421
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T130000Z
+DTEND:20190130T150000Z
+UID:48422--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T130000Z
+DTEND:20190206T150000Z
+UID:48423--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48423
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T130000Z
+DTEND:20190213T150000Z
+UID:48424--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T130000Z
+DTEND:20190220T150000Z
+UID:48425--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T130000Z
+DTEND:20190227T150000Z
+UID:48426--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48426
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T130000Z
+DTEND:20190306T150000Z
+UID:48427--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48427
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T130000Z
+DTEND:20190313T150000Z
+UID:48428--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48428
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T130000Z
+DTEND:20190320T150000Z
+UID:48429--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48429
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T130000Z
+DTEND:20190327T150000Z
+UID:48430--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48430
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T120000Z
+DTEND:20190403T140000Z
+UID:48431--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48431
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T120000Z
+DTEND:20190410T140000Z
+UID:48432--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T120000Z
+DTEND:20190424T140000Z
+UID:48433--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48433
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T120000Z
+DTEND:20190501T140000Z
+UID:48434--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48434
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T120000Z
+DTEND:20190508T140000Z
+UID:48435--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 1st year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48435
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T131500Z
+DTEND:20190313T173000Z
+UID:48551--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Projektarbejde og kommunikation. 140700
+ 3U-1\, Study Activity\,  : Projektarbejde og kommunikation. 1407
+ 003U-2\, Mathias Grüttner\, Programme: SWU 1st year\,  Activity: Reexam
+LOCATION:Room: 2A52\, Room: 2A54
+DESCRIPTION:ID 48551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T140000Z
+DTEND:20190314T180000Z
+UID:48684--425819232-0@timeedit.com
+DTSTAMP:20190225T204943Z
+LAST-MODIFIED:20190225T204943Z
+SUMMARY:Study Activity\,  : Foundations of Computing - 
+ Discrete Mathematics. BSFOCDM1KU\, Alessandro Bruni\
+ , Programme: SWU 1st year\,  Activity: Reexam - on premises
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 48684
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,3692 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-SWU 2nd year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190130T150000Z
+DTEND:20190130T170000Z
+UID:44067--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44067
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T150000Z
+DTEND:20190206T190000Z
+UID:44068--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. K
+ SINSMT1KU\, Study Activity\,  : Second Year Project: Softwar
+ e Development in Large Teams. BSANSSG1KU\, Name: Maria Paasi
+ vaara\, Programme: CS - Computer Science\, Programme: SWU 2n
+ d year\, Course type: Mandatory\,  Activity: Exercises\,  Activity: Lecture
+LOCATION:Room: 2A12-14\, Room: Aud 1 (0A11)
+DESCRIPTION:ID 44068
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T150000Z
+DTEND:20190220T170000Z
+UID:44070--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44070
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T150000Z
+DTEND:20190227T170000Z
+UID:44071--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44071
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T150000Z
+DTEND:20190306T170000Z
+UID:44072--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44072
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T150000Z
+DTEND:20190320T170000Z
+UID:44074--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44074
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T150000Z
+DTEND:20190327T170000Z
+UID:44075--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44075
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T140000Z
+DTEND:20190403T160000Z
+UID:44076--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44076
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T140000Z
+DTEND:20190424T160000Z
+UID:44078--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44078
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T120000Z
+DTEND:20190508T160000Z
+UID:44080--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 44080
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T170000Z
+DTEND:20190130T190000Z
+UID:44081--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Second Year Project: Software Develop
+ ment in Large Teams. BSANSSG1KU\, Name: Maria Paasivaara\, Pro
+ gramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52\, Room: Aud 1 (0A11)
+DESCRIPTION:ID 44081
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T170000Z
+DTEND:20190220T190000Z
+UID:44084--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Second Year Project: Software Develop
+ ment in Large Teams. BSANSSG1KU\, Name: Maria Paasivaara\, Pro
+ gramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 3A52
+DESCRIPTION:ID 44084
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T160000Z
+DTEND:20190508T180000Z
+UID:44094--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. KSI
+ NSMT1KU\, Study Activity\,  : Second Year Project: Software De
+ velopment in Large Teams. BSANSSG1KU\, Name: Maria Paasivaara\
+ , Programme: CS - Computer Science\, Programme: SWU 2nd year\,
+  Course type: Mandatory\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 2A12-14\, Room: 3A52
+DESCRIPTION:ID 44094
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T090000Z
+DTEND:20190131T110000Z
+UID:44290--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44290
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:44304--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44304
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T090000Z
+DTEND:20190207T110000Z
+UID:44318--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T090000Z
+DTEND:20190214T110000Z
+UID:44319--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44319
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T090000Z
+DTEND:20190221T110000Z
+UID:44320--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T090000Z
+DTEND:20190228T110000Z
+UID:44321--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44321
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T090000Z
+DTEND:20190307T110000Z
+UID:44322--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44322
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T090000Z
+DTEND:20190314T110000Z
+UID:44323--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T090000Z
+DTEND:20190321T110000Z
+UID:44324--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44324
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T090000Z
+DTEND:20190328T110000Z
+UID:44325--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44325
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T080000Z
+DTEND:20190404T100000Z
+UID:44326--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44326
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T080000Z
+DTEND:20190411T100000Z
+UID:44327--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44327
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T080000Z
+DTEND:20190425T100000Z
+UID:44328--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44328
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T080000Z
+DTEND:20190502T100000Z
+UID:44329--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44329
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T080000Z
+DTEND:20190509T100000Z
+UID:44330--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 14
+ 13003U\, Name: Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44330
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:44331--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44331
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:44332--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44332
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:44333--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44333
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:44334--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44334
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:44335--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44335
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:44336--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44336
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:44337--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44337
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:44338--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44338
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:44339--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44339
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:44340--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44340
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:44341--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44341
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:44342--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44342
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:44343--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming. 141
+ 3003U\, Name: Jesper Andreas Bengtson\, Programme: S
+ WU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44343
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T090000Z
+DTEND:20190128T110000Z
+UID:44485--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44485
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T090000Z
+DTEND:20190204T110000Z
+UID:44486--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44486
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T090000Z
+DTEND:20190211T110000Z
+UID:44487--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44487
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T090000Z
+DTEND:20190218T110000Z
+UID:44488--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T090000Z
+DTEND:20190225T110000Z
+UID:44489--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44489
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T090000Z
+DTEND:20190304T110000Z
+UID:44490--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44490
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T090000Z
+DTEND:20190311T110000Z
+UID:44491--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44491
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T090000Z
+DTEND:20190318T110000Z
+UID:44492--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44492
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T090000Z
+DTEND:20190325T110000Z
+UID:44493--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44493
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T080000Z
+DTEND:20190401T100000Z
+UID:44494--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44494
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T080000Z
+DTEND:20190408T100000Z
+UID:44495--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44495
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T080000Z
+DTEND:20190415T100000Z
+UID:44496--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T080000Z
+DTEND:20190429T100000Z
+UID:44497--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44497
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T080000Z
+DTEND:20190506T100000Z
+UID:44498--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Project
+  Organisation. 1409001U\, Name: Paolo Tell\, Programme:
+  SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44498
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T070000Z
+DTEND:20190128T090000Z
+UID:44499--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44499
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T070000Z
+DTEND:20190204T090000Z
+UID:44500--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44500
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T070000Z
+DTEND:20190211T090000Z
+UID:44501--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44501
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T070000Z
+DTEND:20190218T090000Z
+UID:44502--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44502
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T070000Z
+DTEND:20190225T090000Z
+UID:44503--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44503
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T070000Z
+DTEND:20190304T090000Z
+UID:44504--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44504
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T070000Z
+DTEND:20190311T090000Z
+UID:44505--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44505
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T070000Z
+DTEND:20190318T090000Z
+UID:44506--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44506
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T070000Z
+DTEND:20190325T090000Z
+UID:44507--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44507
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T060000Z
+DTEND:20190401T080000Z
+UID:44508--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44508
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T060000Z
+DTEND:20190408T080000Z
+UID:44509--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44509
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T060000Z
+DTEND:20190415T080000Z
+UID:44510--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44510
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T060000Z
+DTEND:20190429T080000Z
+UID:44511--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44511
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T060000Z
+DTEND:20190506T080000Z
+UID:44512--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Projec
+ t Organisation. 1409001U\, Name: Paolo Tell\, Programm
+ e: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44512
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T070000Z
+DTEND:20190201T090000Z
+UID:44542--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T070000Z
+DTEND:20190208T090000Z
+UID:44543--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44543
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T070000Z
+DTEND:20190215T090000Z
+UID:44544--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T070000Z
+DTEND:20190222T090000Z
+UID:44545--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T070000Z
+DTEND:20190301T090000Z
+UID:44546--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T070000Z
+DTEND:20190308T090000Z
+UID:44547--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44547
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T070000Z
+DTEND:20190315T090000Z
+UID:44548--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T070000Z
+DTEND:20190322T090000Z
+UID:44549--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44549
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T070000Z
+DTEND:20190329T090000Z
+UID:44550--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T060000Z
+DTEND:20190405T080000Z
+UID:44551--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T060000Z
+DTEND:20190412T080000Z
+UID:44552--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T060000Z
+DTEND:20190426T080000Z
+UID:44553--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44553
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T060000Z
+DTEND:20190503T080000Z
+UID:44554--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T060000Z
+DTEND:20190510T080000Z
+UID:44555--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 44555
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T090000Z
+DTEND:20190201T110000Z
+UID:44556--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T090000Z
+DTEND:20190208T110000Z
+UID:44557--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:44558--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:44559--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:44560--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44560
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:44561--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:44562--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:44563--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44563
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:44564--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44564
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:44565--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44565
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:44566--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44566
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:44567--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44567
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:44568--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 5A60
+DESCRIPTION:ID 44568
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:44569--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and Machi
+ ne Learning. BSIIAML1KU\, Study Activity\,  : Introduction to Ima
+ ge Analysis and Machine Learning. KSIIAML1KU\, Name: Dan Witzner 
+ Hansen\, Programme: SDT - Software Development\, Programme: SWU 2
+ nd year\, Programme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 2A20\, Room: 3A18
+DESCRIPTION:ID 44569
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T070000Z
+DTEND:20190130T090000Z
+UID:44609--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44609
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T070000Z
+DTEND:20190206T090000Z
+UID:44610--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44610
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T090000Z
+UID:44611--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44611
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T070000Z
+DTEND:20190220T090000Z
+UID:44612--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44612
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T070000Z
+DTEND:20190227T090000Z
+UID:44613--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44613
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T070000Z
+DTEND:20190306T090000Z
+UID:44614--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44614
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T070000Z
+DTEND:20190313T090000Z
+UID:44615--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44615
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T070000Z
+DTEND:20190320T090000Z
+UID:44616--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44616
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T070000Z
+DTEND:20190327T090000Z
+UID:44617--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44617
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T060000Z
+DTEND:20190403T080000Z
+UID:44618--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44618
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T060000Z
+DTEND:20190410T080000Z
+UID:44619--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T060000Z
+DTEND:20190424T080000Z
+UID:44620--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44620
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T060000Z
+DTEND:20190501T080000Z
+UID:44621--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44621
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T060000Z
+DTEND:20190508T080000Z
+UID:44622--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 2 (0A35)
+DESCRIPTION:ID 44622
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T090000Z
+DTEND:20190130T110000Z
+UID:44623--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44623
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T090000Z
+DTEND:20190206T110000Z
+UID:44624--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44624
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T090000Z
+DTEND:20190213T110000Z
+UID:44625--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44625
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T090000Z
+DTEND:20190220T110000Z
+UID:44626--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44626
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T090000Z
+DTEND:20190227T110000Z
+UID:44627--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44627
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T090000Z
+DTEND:20190306T110000Z
+UID:44628--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44628
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T090000Z
+DTEND:20190313T110000Z
+UID:44629--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44629
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T090000Z
+DTEND:20190320T110000Z
+UID:44630--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44630
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T090000Z
+DTEND:20190327T110000Z
+UID:44631--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44631
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T080000Z
+DTEND:20190403T100000Z
+UID:44632--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T080000Z
+DTEND:20190410T100000Z
+UID:44633--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44633
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T080000Z
+DTEND:20190424T100000Z
+UID:44634--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44634
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T080000Z
+DTEND:20190501T100000Z
+UID:44635--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44635
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T080000Z
+DTEND:20190508T100000Z
+UID:44636--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 10
+ 10003U\, Study Activity\,  : Introduction to Database Design
+ . BSINDAD1KU\, Study Activity\,  : Introduction to Database 
+ Design. KSINDAD1KU\, Name: Björn Thor Jonsson\, Programme: S
+ DT - Software Design SD\, Programme: SDT - Software Developm
+ ent\, Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52\, Room: 4A20\, Room: 4A22
+DESCRIPTION:ID 44636
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T110000Z
+DTEND:20190201T130000Z
+UID:44676--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44676
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T110000Z
+DTEND:20190208T130000Z
+UID:44677--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44677
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T110000Z
+DTEND:20190215T130000Z
+UID:44678--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44678
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T110000Z
+DTEND:20190222T130000Z
+UID:44679--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44679
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T110000Z
+DTEND:20190301T130000Z
+UID:44680--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T110000Z
+DTEND:20190308T130000Z
+UID:44681--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T110000Z
+DTEND:20190315T130000Z
+UID:44682--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44682
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T110000Z
+DTEND:20190322T130000Z
+UID:44683--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44683
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T110000Z
+DTEND:20190329T130000Z
+UID:44684--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44684
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T100000Z
+DTEND:20190405T120000Z
+UID:44685--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44685
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T100000Z
+DTEND:20190412T120000Z
+UID:44686--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T100000Z
+DTEND:20190426T120000Z
+UID:44687--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44687
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T100000Z
+DTEND:20190503T120000Z
+UID:44688--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44688
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T100000Z
+DTEND:20190510T120000Z
+UID:44689--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 
+ 1012001U\, Study Activity\,  : Intelligent Systems Program
+ ming. BSINSYP1KU\, Study Activity\,  : Intelligent Systems
+  Programming. KSINSYP1KU\, Name: Rune Møller Jensen\, Prog
+ ramme: SDT - Software Design SD\, Programme: SDT - Softwar
+ e Development\, Programme: SWU 2nd year\, Programme: SWU 3
+ rd year\, Course type: Elective\, Course type: Specialisation\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 44689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T130000Z
+DTEND:20190201T150000Z
+UID:44703--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44703
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T130000Z
+DTEND:20190208T150000Z
+UID:44704--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44704
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T130000Z
+DTEND:20190215T150000Z
+UID:44705--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44705
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T130000Z
+DTEND:20190222T150000Z
+UID:44706--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44706
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T130000Z
+DTEND:20190301T150000Z
+UID:44707--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44707
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T130000Z
+DTEND:20190308T150000Z
+UID:44708--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44708
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T130000Z
+DTEND:20190315T150000Z
+UID:44709--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44709
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T130000Z
+DTEND:20190322T150000Z
+UID:44710--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44710
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T130000Z
+DTEND:20190329T150000Z
+UID:44711--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44711
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T120000Z
+DTEND:20190405T140000Z
+UID:44712--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T120000Z
+DTEND:20190412T140000Z
+UID:44713--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44713
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T120000Z
+DTEND:20190426T140000Z
+UID:44714--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T120000Z
+DTEND:20190503T140000Z
+UID:44715--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44715
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T120000Z
+DTEND:20190510T140000Z
+UID:44716--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1
+ 012001U\, Study Activity\,  : Intelligent Systems Programmi
+ ng. BSINSYP1KU\, Study Activity\,  : Intelligent Systems Pr
+ ogramming. KSINSYP1KU\, Name: Rune Møller Jensen\, Programm
+ e: SDT - Software Design SD\, Programme: SDT - Software Dev
+ elopment\, Programme: SWU 2nd year\, Programme: SWU 3rd yea
+ r\, Course type: Elective\, Course type: Specialisation\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52\, Room: 3A54
+DESCRIPTION:ID 44716
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T070000Z
+DTEND:20190129T090000Z
+UID:44738--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44738
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T070000Z
+DTEND:20190205T090000Z
+UID:44739--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44739
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T070000Z
+DTEND:20190212T090000Z
+UID:44740--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44740
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T070000Z
+DTEND:20190219T090000Z
+UID:44741--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44741
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T070000Z
+DTEND:20190226T090000Z
+UID:44742--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44742
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T070000Z
+DTEND:20190305T090000Z
+UID:44743--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44743
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T070000Z
+DTEND:20190312T090000Z
+UID:44744--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44744
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T070000Z
+DTEND:20190319T090000Z
+UID:44745--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44745
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T070000Z
+DTEND:20190326T090000Z
+UID:44746--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T060000Z
+DTEND:20190402T080000Z
+UID:44747--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44747
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T060000Z
+DTEND:20190409T080000Z
+UID:44748--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44748
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T060000Z
+DTEND:20190423T080000Z
+UID:44749--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44749
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T060000Z
+DTEND:20190430T080000Z
+UID:44750--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44750
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T060000Z
+DTEND:20190507T080000Z
+UID:44751--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. B
+ SMOAPD1KU\, Name: Fabricio Batista Narcizo\, Name:
+  Helge Pfeiffer\, Programme: SWU 2nd year\, Progra
+ mme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 4 (4A60)
+DESCRIPTION:ID 44751
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T090000Z
+DTEND:20190129T110000Z
+UID:44755--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T090000Z
+DTEND:20190205T110000Z
+UID:44756--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44756
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:44757--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44757
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:44758--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44758
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:44759--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44759
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:44760--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:44761--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44761
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:44762--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44762
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:44763--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44763
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:44764--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44764
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:44765--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:44766--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44766
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:44767--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44767
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:44768--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Development. BS
+ MOAPD1KU\, Name: Fabricio Batista Narcizo\, Name: H
+ elge Pfeiffer\, Programme: SWU 2nd year\, Programme
+ : SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 44768
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T110000Z
+DTEND:20190129T130000Z
+UID:44774--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44774
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T110000Z
+DTEND:20190205T130000Z
+UID:44775--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44775
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:44776--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44776
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:44777--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44777
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:44778--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44778
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:44779--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44779
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:44780--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44780
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:44781--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44781
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:44782--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44782
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:44783--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44783
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:44784--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44784
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:44785--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44785
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:44786--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44786
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:44787--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario
+  Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, 
+ Programme: SWU 3rd year\, Course type: Elective\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 44787
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T130000Z
+DTEND:20190129T150000Z
+UID:44788--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44788
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T130000Z
+DTEND:20190205T150000Z
+UID:44789--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44789
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T130000Z
+DTEND:20190212T150000Z
+UID:44790--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44790
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T130000Z
+DTEND:20190219T150000Z
+UID:44791--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44791
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T130000Z
+DTEND:20190226T150000Z
+UID:44792--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44792
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T130000Z
+DTEND:20190305T150000Z
+UID:44793--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44793
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T130000Z
+DTEND:20190312T150000Z
+UID:44794--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44794
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T130000Z
+DTEND:20190319T150000Z
+UID:44795--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44795
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T130000Z
+DTEND:20190326T150000Z
+UID:44796--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44796
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T120000Z
+DTEND:20190402T140000Z
+UID:44797--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44797
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T120000Z
+DTEND:20190409T140000Z
+UID:44798--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44798
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T120000Z
+DTEND:20190423T140000Z
+UID:44799--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44799
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T120000Z
+DTEND:20190430T140000Z
+UID:44800--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44800
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T120000Z
+DTEND:20190507T140000Z
+UID:44801--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Name: Rosario 
+ Giustolisi\, Name: Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\, Course type: Elective\,  Activity: Exercises
+LOCATION:Room: 3A18\, Room: 3A52
+DESCRIPTION:ID 44801
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190516T070000Z
+DTEND:20190516T110000Z
+UID:46975--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Functional Programming.
+  1413003U\, Jesper Andreas Bengtson\, Programme:
+  SWU 2nd year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 2A52\, Room: 3A12-14\, Room: 4A14-16
+DESCRIPTION:ID 46975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190522T070000Z
+DTEND:20190522T110000Z
+UID:46980--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Security. BSSECUR1KU\, Rosario 
+ Giustolisi\, Søren Debois\, Programme: SWU 2nd year\, Pr
+ ogramme: SWU 3rd year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A52\, Room: 4A14-16
+DESCRIPTION:ID 46980
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190524T070000Z
+DTEND:20190524T110000Z
+UID:46986--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Intelligent Systems Programming. 1012
+ 001U\, Study Activity\,  : Intelligent Systems Programming. BS
+ INSYP1KU\, Study Activity\,  : Intelligent Systems Programming
+ . KSINSYP1KU\, Rune Møller Jensen\, Programme: SDT - Software 
+ Design SD\, Programme: SDT - Software Development\, Programme:
+  SWU 2nd year\, Programme: SWU 3rd year\,  Activity: Ordinary Exam - on premises
+LOCATION:Room: 2A12-14\, Room: 3A12-14\, Room: 4A14-16
+DESCRIPTION:ID 46986
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T070000Z
+DTEND:20190603T190000Z
+UID:47040--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and 
+ Machine Learning. BSIIAML1KU\, Study Activity\,  : Introduct
+ ion to Image Analysis and Machine Learning. KSIIAML1KU\, Dan
+  Witzner Hansen\, Programme: SDT - Software Development\, Pr
+ ogramme: SWU 2nd year\, Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A20
+DESCRIPTION:ID 47040
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T070000Z
+DTEND:20190604T190000Z
+UID:47044--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and 
+ Machine Learning. BSIIAML1KU\, Study Activity\,  : Introduct
+ ion to Image Analysis and Machine Learning. KSIIAML1KU\, Dan
+  Witzner Hansen\, Programme: SDT - Software Development\, Pr
+ ogramme: SWU 2nd year\, Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A20
+DESCRIPTION:ID 47044
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190606T070000Z
+DTEND:20190606T190000Z
+UID:47045--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Image Analysis and 
+ Machine Learning. BSIIAML1KU\, Study Activity\,  : Introduct
+ ion to Image Analysis and Machine Learning. KSIIAML1KU\, Dan
+  Witzner Hansen\, Programme: SDT - Software Development\, Pr
+ ogramme: SWU 2nd year\, Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A20
+DESCRIPTION:ID 47045
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190520T060000Z
+DTEND:20190520T120000Z
+UID:47046--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development and Pr
+ oject Organisation. 1409001U\, Paolo Tell\, Progra
+ mme: SWU 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47046
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T070000Z
+DTEND:20190604T190000Z
+UID:47047--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A18
+DESCRIPTION:ID 47047
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190606T070000Z
+DTEND:20190606T190000Z
+UID:47048--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A18
+DESCRIPTION:ID 47048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T070000Z
+DTEND:20190607T190000Z
+UID:47049--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 47049
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T070000Z
+DTEND:20190610T190000Z
+UID:47050--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A12-14
+DESCRIPTION:ID 47050
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T070000Z
+DTEND:20190611T190000Z
+UID:47051--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A54
+DESCRIPTION:ID 47051
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T070000Z
+DTEND:20190613T190000Z
+UID:47052--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 47052
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T070000Z
+DTEND:20190614T190000Z
+UID:47053--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : System Development an
+ d Project Organisation. 1409001U\, Paolo Tell\
+ , Programme: SWU 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 47053
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T070000Z
+DTEND:20190617T190000Z
+UID:47065--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Developmen
+ t. BSMOAPD1KU\, _NN\, Programme: SWU 2nd year\
+ , Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47065
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T070000Z
+DTEND:20190618T190000Z
+UID:47066--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Developmen
+ t. BSMOAPD1KU\, _NN\, Programme: SWU 2nd year\
+ , Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47066
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T070000Z
+DTEND:20190619T190000Z
+UID:47067--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Developmen
+ t. BSMOAPD1KU\, _NN\, Programme: SWU 2nd year\
+ , Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47067
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190620T070000Z
+DTEND:20190620T190000Z
+UID:47068--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile App Developmen
+ t. BSMOAPD1KU\, _NN\, Programme: SWU 2nd year\
+ , Programme: SWU 3rd year\,  Activity: Ordinary Exam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 47068
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190514T140000Z
+DTEND:20190514T180000Z
+UID:47783--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. K
+ SINSMT1KU\, Study Activity\,  : Second Year Project: Softwar
+ e Development in Large Teams. BSANSSG1KU\, Name: Maria Paasi
+ vaara\, Programme: CS - Computer Science\, Programme: SWU 2n
+ d year\, Course type: Mandatory\,  Activity: Exercises\,  Activity: Lecture
+LOCATION:Room: Aud 1 (0A11)
+DESCRIPTION:ID 47783
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T150000Z
+DTEND:20190211T190000Z
+UID:48106--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. KSINSM
+ T1KU\, Name: Maria Paasivaara\, Programme: CS - Computer Science\
+ , Programme: SWU 2nd year\, Course type: Mandatory\,  Activity: Workshop
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 48106
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T110000Z
+DTEND:20190130T130000Z
+UID:48436--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48436
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T110000Z
+DTEND:20190206T130000Z
+UID:48437--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48437
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T110000Z
+DTEND:20190213T130000Z
+UID:48438--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48438
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190220T110000Z
+DTEND:20190220T130000Z
+UID:48439--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48439
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190227T110000Z
+DTEND:20190227T130000Z
+UID:48440--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48440
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190306T110000Z
+DTEND:20190306T130000Z
+UID:48441--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48441
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T110000Z
+DTEND:20190313T130000Z
+UID:48442--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48442
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190320T110000Z
+DTEND:20190320T130000Z
+UID:48443--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48443
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190327T110000Z
+DTEND:20190327T130000Z
+UID:48444--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48444
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T100000Z
+DTEND:20190403T120000Z
+UID:48445--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48445
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190410T100000Z
+DTEND:20190410T120000Z
+UID:48446--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48446
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T100000Z
+DTEND:20190424T120000Z
+UID:48447--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48447
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190501T100000Z
+DTEND:20190501T120000Z
+UID:48448--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48448
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T100000Z
+DTEND:20190508T120000Z
+UID:48449--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48449
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T070000Z
+DTEND:20190131T090000Z
+UID:48450--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48450
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T070000Z
+DTEND:20190207T090000Z
+UID:48451--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48451
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T070000Z
+DTEND:20190214T090000Z
+UID:48452--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48452
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T070000Z
+DTEND:20190221T090000Z
+UID:48453--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48453
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T070000Z
+DTEND:20190228T090000Z
+UID:48454--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48454
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T070000Z
+DTEND:20190307T090000Z
+UID:48455--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48455
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T070000Z
+DTEND:20190314T090000Z
+UID:48456--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48456
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T070000Z
+DTEND:20190321T090000Z
+UID:48457--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48457
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T070000Z
+DTEND:20190328T090000Z
+UID:48458--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48458
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T060000Z
+DTEND:20190404T080000Z
+UID:48459--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48459
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T060000Z
+DTEND:20190411T080000Z
+UID:48460--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48460
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T060000Z
+DTEND:20190425T080000Z
+UID:48461--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48461
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T060000Z
+DTEND:20190502T080000Z
+UID:48462--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48462
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T060000Z
+DTEND:20190509T080000Z
+UID:48463--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48463
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T130000Z
+DTEND:20190131T150000Z
+UID:48464--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T130000Z
+DTEND:20190207T150000Z
+UID:48465--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48465
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T130000Z
+DTEND:20190214T150000Z
+UID:48466--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48466
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T130000Z
+DTEND:20190221T150000Z
+UID:48467--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48467
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T130000Z
+DTEND:20190228T150000Z
+UID:48468--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48468
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T130000Z
+DTEND:20190307T150000Z
+UID:48469--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48469
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T130000Z
+DTEND:20190314T150000Z
+UID:48470--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48470
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T130000Z
+DTEND:20190321T150000Z
+UID:48471--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48471
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T130000Z
+DTEND:20190328T150000Z
+UID:48472--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T120000Z
+DTEND:20190404T140000Z
+UID:48473--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48473
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T120000Z
+DTEND:20190411T140000Z
+UID:48474--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48474
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T120000Z
+DTEND:20190425T140000Z
+UID:48475--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48475
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T120000Z
+DTEND:20190502T140000Z
+UID:48476--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48476
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T120000Z
+DTEND:20190509T140000Z
+UID:48477--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Study A
+ ssistance\, Programme: SWU 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48477
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T070000Z
+DTEND:20190212T180000Z
+UID:48496--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Workshop
+LOCATION:Room: ScrollBar (0E01)
+DESCRIPTION:ID 48496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T110000Z
+UID:48497--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Workshop
+LOCATION:Room: ScrollBar (0E01)
+DESCRIPTION:ID 48497
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T130000Z
+DTEND:20190213T180000Z
+UID:48498--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trainin
+ g. KSINSMT1KU\, Study Activity\,  : Second Year Project:
+  Software Development in Large Teams. BSANSSG1KU\, Name:
+  Maria Paasivaara\, Programme: CS - Computer Science\, P
+ rogramme: SWU 2nd year\, Course type: Mandatory\,  Activity: Workshop
+LOCATION:Room: ScrollBar (0E01)
+DESCRIPTION:ID 48498
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T140000Z
+DTEND:20190321T180000Z
+UID:48709--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Introduction to Database Design. 101
+ 0003U\, Study Activity\,  : Introduction to Database Design. 
+ BSINDAD1KU\, Björn Thor Jonsson\, Programme: SDT - Software D
+ evelopment\, Programme: SWU 2nd year\,  Activity: Reexam - on premises
+LOCATION:Room: 4A14-16
+DESCRIPTION:ID 48709
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T080000Z
+DTEND:20190313T160000Z
+UID:48774--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Mobile and Distributed Systems. BSMO
+ DIS1KU\, Agata Przybyszewska\, Søren Debois\, Programme: SDT 
+ - Software Development\, Programme: SWU 2nd year\,  Activity: Reexam
+LOCATION:Room: 4A54
+DESCRIPTION:ID 48774
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T060000Z
+DTEND:20190508T120000Z
+UID:48788--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trai
+ ning. KSINSMT1KU\, Study Activity\,  : Second Year Pr
+ oject: Software Development in Large Teams. BSANSSG1K
+ U\, Maria Paasivaara\, Programme: CS - Computer Scien
+ ce\, Programme: SWU 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48788
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T070000Z
+DTEND:20190307T130000Z
+UID:48790--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trai
+ ning. KSINSMT1KU\, Study Activity\,  : Second Year Pr
+ oject: Software Development in Large Teams. BSANSSG1K
+ U\, Maria Paasivaara\, Programme: CS - Computer Scien
+ ce\, Programme: SWU 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48790
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T060000Z
+DTEND:20190404T120000Z
+UID:48791--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Trai
+ ning. KSINSMT1KU\, Study Activity\,  : Second Year Pr
+ oject: Software Development in Large Teams. BSANSSG1K
+ U\, Maria Paasivaara\, Programme: CS - Computer Scien
+ ce\, Programme: SWU 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48791
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T070000Z
+DTEND:20190319T130000Z
+UID:48809--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. KSINSMT
+ 1KU\, Study Activity\,  : Second Year Project: Software Developmen
+ t in Large Teams. BSANSSG1KU\, Maria Paasivaara\, Programme: CS - 
+ Computer Science\, Programme: SWU 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48809
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T060000Z
+DTEND:20190423T120000Z
+UID:48810--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. KSINSMT
+ 1KU\, Study Activity\,  : Second Year Project: Software Developmen
+ t in Large Teams. BSANSSG1KU\, Maria Paasivaara\, Programme: CS - 
+ Computer Science\, Programme: SWU 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48810
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T060000Z
+DTEND:20190614T120000Z
+UID:48811--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Industrial Scrum Master Training. KSINSMT
+ 1KU\, Study Activity\,  : Second Year Project: Software Developmen
+ t in Large Teams. BSANSSG1KU\, Maria Paasivaara\, Programme: CS - 
+ Computer Science\, Programme: SWU 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 48811
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T070000Z
+DTEND:20190319T173000Z
+UID:48843--425819232-0@timeedit.com
+DTSTAMP:20190301T212924Z
+LAST-MODIFIED:20190301T212924Z
+SUMMARY:Study Activity\,  : Analysis\, Design 
+ and Software Architecture. 1408003U\, Paolo
+  Tell\, Programme: SWU 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A52
+DESCRIPTION:ID 48843
+END:VEVENT
+END:VCALENDAR

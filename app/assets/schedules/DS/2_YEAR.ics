@@ -1,0 +1,2016 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-DS 2nd year-20190301
+X-WR-CALDESC:Date limit -
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20190129T090000Z
+DTEND:20190129T110000Z
+UID:45598--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45598
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T090000Z
+DTEND:20190205T110000Z
+UID:45599--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45599
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T090000Z
+DTEND:20190212T110000Z
+UID:45600--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45600
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T090000Z
+DTEND:20190219T110000Z
+UID:45601--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45601
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T090000Z
+DTEND:20190226T110000Z
+UID:45602--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45602
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T090000Z
+DTEND:20190305T110000Z
+UID:45603--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45603
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T090000Z
+DTEND:20190312T110000Z
+UID:45604--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45604
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T090000Z
+DTEND:20190319T110000Z
+UID:45605--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45605
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T090000Z
+DTEND:20190326T110000Z
+UID:45606--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45606
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T080000Z
+DTEND:20190402T100000Z
+UID:45607--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45607
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T080000Z
+DTEND:20190409T100000Z
+UID:45608--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T080000Z
+DTEND:20190423T100000Z
+UID:45609--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45609
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T080000Z
+DTEND:20190430T100000Z
+UID:45610--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45610
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T080000Z
+DTEND:20190507T100000Z
+UID:45611--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 5A60
+DESCRIPTION:ID 45611
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T110000Z
+DTEND:20190129T130000Z
+UID:45612--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45612
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T110000Z
+DTEND:20190205T130000Z
+UID:45613--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45613
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T110000Z
+DTEND:20190212T130000Z
+UID:45614--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45614
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T110000Z
+DTEND:20190219T130000Z
+UID:45615--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45615
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T110000Z
+DTEND:20190226T130000Z
+UID:45616--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45616
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T110000Z
+DTEND:20190305T130000Z
+UID:45617--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45617
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T110000Z
+DTEND:20190312T130000Z
+UID:45618--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45618
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T110000Z
+DTEND:20190319T130000Z
+UID:45619--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T110000Z
+DTEND:20190326T130000Z
+UID:45620--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45620
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T100000Z
+DTEND:20190402T120000Z
+UID:45621--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45621
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T100000Z
+DTEND:20190409T120000Z
+UID:45622--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45622
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T100000Z
+DTEND:20190423T120000Z
+UID:45623--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45623
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T100000Z
+DTEND:20190430T120000Z
+UID:45624--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45624
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T100000Z
+DTEND:20190507T120000Z
+UID:45625--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A12-14
+DESCRIPTION:ID 45625
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T070000Z
+DTEND:20190201T090000Z
+UID:45626--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45626
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T070000Z
+DTEND:20190208T090000Z
+UID:45627--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45627
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T070000Z
+DTEND:20190215T090000Z
+UID:45628--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45628
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T070000Z
+DTEND:20190222T090000Z
+UID:45629--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45629
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T070000Z
+DTEND:20190301T090000Z
+UID:45630--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45630
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T070000Z
+DTEND:20190308T090000Z
+UID:45631--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45631
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T070000Z
+DTEND:20190315T090000Z
+UID:45632--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T070000Z
+DTEND:20190322T090000Z
+UID:45633--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45633
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T070000Z
+DTEND:20190329T090000Z
+UID:45634--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45634
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T060000Z
+DTEND:20190405T080000Z
+UID:45635--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45635
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T060000Z
+DTEND:20190412T080000Z
+UID:45636--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45636
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T060000Z
+DTEND:20190426T080000Z
+UID:45637--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45637
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T060000Z
+DTEND:20190503T080000Z
+UID:45638--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45638
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T060000Z
+DTEND:20190510T080000Z
+UID:45639--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. B
+ SSEYEP1KU\, Name: Barbara Plank\, Programme: DS
+  2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45639
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T090000Z
+DTEND:20190201T110000Z
+UID:45640--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T090000Z
+DTEND:20190208T110000Z
+UID:45641--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45641
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T090000Z
+DTEND:20190215T110000Z
+UID:45642--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45642
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T090000Z
+DTEND:20190222T110000Z
+UID:45643--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45643
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T090000Z
+DTEND:20190301T110000Z
+UID:45644--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45644
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T090000Z
+DTEND:20190308T110000Z
+UID:45645--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45645
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T090000Z
+DTEND:20190315T110000Z
+UID:45646--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45646
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T090000Z
+DTEND:20190322T110000Z
+UID:45647--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45647
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T090000Z
+DTEND:20190329T110000Z
+UID:45648--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45648
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T080000Z
+DTEND:20190405T100000Z
+UID:45649--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45649
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T080000Z
+DTEND:20190412T100000Z
+UID:45650--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45650
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T080000Z
+DTEND:20190426T100000Z
+UID:45651--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45651
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T080000Z
+DTEND:20190503T100000Z
+UID:45652--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45652
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T080000Z
+DTEND:20190510T100000Z
+UID:45653--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BS
+ SEYEP1KU\, Name: Barbara Plank\, Programme: DS 2
+ nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 2A52
+DESCRIPTION:ID 45653
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T090000Z
+DTEND:20190128T110000Z
+UID:45654--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45654
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T090000Z
+DTEND:20190204T110000Z
+UID:45655--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45655
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T090000Z
+DTEND:20190211T110000Z
+UID:45656--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T090000Z
+DTEND:20190218T110000Z
+UID:45657--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45657
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T090000Z
+DTEND:20190225T110000Z
+UID:45658--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45658
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T090000Z
+DTEND:20190304T110000Z
+UID:45659--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45659
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T090000Z
+DTEND:20190311T110000Z
+UID:45660--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45660
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T090000Z
+DTEND:20190318T110000Z
+UID:45661--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45661
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T090000Z
+DTEND:20190325T110000Z
+UID:45662--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45662
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T080000Z
+DTEND:20190401T100000Z
+UID:45663--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45663
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T080000Z
+DTEND:20190408T100000Z
+UID:45664--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T080000Z
+DTEND:20190415T100000Z
+UID:45665--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45665
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T080000Z
+DTEND:20190429T100000Z
+UID:45666--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T080000Z
+DTEND:20190506T100000Z
+UID:45667--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Dat
+ a-driven Decision Making. BSDVDDM1KU\, Name: Christ
+ opher Zimmerman\, Name: Michele Coscia\, Programme:
+  DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45667
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T070000Z
+DTEND:20190128T090000Z
+UID:45668--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45668
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T070000Z
+DTEND:20190204T090000Z
+UID:45669--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45669
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T070000Z
+DTEND:20190211T090000Z
+UID:45670--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45670
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T070000Z
+DTEND:20190218T090000Z
+UID:45671--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45671
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T070000Z
+DTEND:20190225T090000Z
+UID:45672--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45672
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T070000Z
+DTEND:20190304T090000Z
+UID:45673--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45673
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T070000Z
+DTEND:20190311T090000Z
+UID:45674--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45674
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T070000Z
+DTEND:20190318T090000Z
+UID:45675--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45675
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T070000Z
+DTEND:20190325T090000Z
+UID:45676--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45676
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T060000Z
+DTEND:20190401T080000Z
+UID:45677--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45677
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T060000Z
+DTEND:20190408T080000Z
+UID:45678--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45678
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T060000Z
+DTEND:20190415T080000Z
+UID:45679--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45679
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T060000Z
+DTEND:20190429T080000Z
+UID:45680--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T060000Z
+DTEND:20190506T080000Z
+UID:45681--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Da
+ ta-driven Decision Making. BSDVDDM1KU\, Name: Chri
+ stopher Zimmerman\, Name: Michele Coscia\, Program
+ me: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: 3A52
+DESCRIPTION:ID 45681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T090000Z
+DTEND:20190131T110000Z
+UID:45710--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45710
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T090000Z
+DTEND:20190207T110000Z
+UID:45711--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45711
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T090000Z
+DTEND:20190214T110000Z
+UID:45712--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T090000Z
+DTEND:20190221T110000Z
+UID:45713--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45713
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T090000Z
+DTEND:20190228T110000Z
+UID:45714--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T090000Z
+DTEND:20190307T110000Z
+UID:45715--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45715
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T090000Z
+DTEND:20190314T110000Z
+UID:45716--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45716
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T090000Z
+DTEND:20190321T110000Z
+UID:45717--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45717
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T090000Z
+DTEND:20190328T110000Z
+UID:45718--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45718
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T080000Z
+DTEND:20190404T100000Z
+UID:45719--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45719
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T080000Z
+DTEND:20190411T100000Z
+UID:45720--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45720
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T080000Z
+DTEND:20190425T100000Z
+UID:45721--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45721
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T080000Z
+DTEND:20190502T100000Z
+UID:45722--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45722
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T080000Z
+DTEND:20190509T100000Z
+UID:45723--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Lecture
+LOCATION:Room: Aud 3 (2A56)
+DESCRIPTION:ID 45723
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190131T110000Z
+DTEND:20190131T130000Z
+UID:45752--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190207T110000Z
+DTEND:20190207T130000Z
+UID:45753--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45753
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T110000Z
+DTEND:20190214T130000Z
+UID:45754--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45754
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T110000Z
+DTEND:20190221T130000Z
+UID:45755--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190228T110000Z
+DTEND:20190228T130000Z
+UID:45756--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45756
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190307T110000Z
+DTEND:20190307T130000Z
+UID:45757--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45757
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T110000Z
+DTEND:20190314T130000Z
+UID:45758--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45758
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190321T110000Z
+DTEND:20190321T130000Z
+UID:45759--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45759
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190328T110000Z
+DTEND:20190328T130000Z
+UID:45760--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190404T100000Z
+DTEND:20190404T120000Z
+UID:45761--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45761
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T100000Z
+DTEND:20190411T120000Z
+UID:45762--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45762
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190425T100000Z
+DTEND:20190425T120000Z
+UID:45763--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45763
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190502T100000Z
+DTEND:20190502T120000Z
+UID:45764--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45764
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190509T100000Z
+DTEND:20190509T120000Z
+UID:45765--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLASDA1KU\, 
+ Name: Iman Elghandour\, Name: Leon Derczynski\, Name: Pinar Tozun
+ \, Programme: DS 2nd year\, Course type: Mandatory\,  Activity: Exercises
+LOCATION:Room: 3A54
+DESCRIPTION:ID 45765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46841--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Management. BSDAMAN1KU\, Pinar
+  Tozun\, Programme: DS 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46841
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190213T070000Z
+DTEND:20190213T130000Z
+UID:46857--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Machine Learning. BSMALEA1KU
+ \, Jes Frellesen\, Pierre-Alexandre Mattei\, Sami Bra
+ ndt\, Programme: DS 2nd year\,  Activity: Reexam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 46857
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190520T060000Z
+DTEND:20190520T120000Z
+UID:47213--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Projec
+ t. BSSEYEP1KU\, Barbara Plank\, Programme: 
+ DS 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47213
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T070000Z
+DTEND:20190614T190000Z
+UID:47214--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BSSEYEP1KU\, B
+ arbara Plank\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 3A18
+DESCRIPTION:ID 47214
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T070000Z
+DTEND:20190617T190000Z
+UID:47215--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BSSEYEP1KU\, B
+ arbara Plank\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A20
+DESCRIPTION:ID 47215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T070000Z
+DTEND:20190618T190000Z
+UID:47216--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Second Year Project. BSSEYEP1KU\, B
+ arbara Plank\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 2A20
+DESCRIPTION:ID 47216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190513T060000Z
+DTEND:20190513T120000Z
+UID:47224--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Data-driven De
+ cision Making. BSDVDDM1KU\, Christopher Zimmerman\, Michele Co
+ scia\, Programme: DS 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47224
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T070000Z
+DTEND:20190603T190000Z
+UID:47225--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Data-drive
+ n Decision Making. BSDVDDM1KU\, Christopher Zimmerman\, Mi
+ chele Coscia\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47225
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T070000Z
+DTEND:20190604T190000Z
+UID:47226--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Data-drive
+ n Decision Making. BSDVDDM1KU\, Christopher Zimmerman\, Mi
+ chele Coscia\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47226
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190606T070000Z
+DTEND:20190606T190000Z
+UID:47227--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Data-drive
+ n Decision Making. BSDVDDM1KU\, Christopher Zimmerman\, Mi
+ chele Coscia\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47227
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T070000Z
+DTEND:20190607T190000Z
+UID:47228--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Visualisation and Data-drive
+ n Decision Making. BSDVDDM1KU\, Christopher Zimmerman\, Mi
+ chele Coscia\, Programme: DS 2nd year\,  Activity: Ordinary Exam
+LOCATION:Room: 5A60
+DESCRIPTION:ID 47228
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T060000Z
+DTEND:20190527T120000Z
+UID:47229--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Large Scale Data Analysis. BSLAS
+ DA1KU\, Iman Elghandour\, Leon Derczynski\, Pinar Tozun\,
+  Programme: DS 2nd year\,  Activity: Ordinary Exam - submission
+LOCATION:Room: learnIT
+DESCRIPTION:ID 47229
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190128T130000Z
+DTEND:20190128T150000Z
+UID:48394--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48394
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190204T130000Z
+DTEND:20190204T150000Z
+UID:48395--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48395
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T130000Z
+DTEND:20190211T150000Z
+UID:48396--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48396
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190218T130000Z
+DTEND:20190218T150000Z
+UID:48397--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48397
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T130000Z
+DTEND:20190225T150000Z
+UID:48398--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48398
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T130000Z
+DTEND:20190304T150000Z
+UID:48399--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48399
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190311T130000Z
+DTEND:20190311T150000Z
+UID:48400--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T130000Z
+DTEND:20190318T150000Z
+UID:48401--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190325T130000Z
+DTEND:20190325T150000Z
+UID:48402--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48402
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190401T120000Z
+DTEND:20190401T140000Z
+UID:48403--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48403
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190408T120000Z
+DTEND:20190408T140000Z
+UID:48404--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48404
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T120000Z
+DTEND:20190415T140000Z
+UID:48405--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48405
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T120000Z
+DTEND:20190429T140000Z
+UID:48406--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48406
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T120000Z
+DTEND:20190506T140000Z
+UID:48407--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48407
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T110000Z
+DTEND:20190201T150000Z
+UID:48478--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48478
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190208T110000Z
+DTEND:20190208T150000Z
+UID:48479--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48479
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T110000Z
+DTEND:20190215T150000Z
+UID:48480--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190222T110000Z
+DTEND:20190222T150000Z
+UID:48481--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48481
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190301T110000Z
+DTEND:20190301T150000Z
+UID:48482--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48482
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190308T110000Z
+DTEND:20190308T150000Z
+UID:48483--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48483
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190315T110000Z
+DTEND:20190315T150000Z
+UID:48484--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48484
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190322T110000Z
+DTEND:20190322T150000Z
+UID:48485--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48485
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190329T110000Z
+DTEND:20190329T150000Z
+UID:48486--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48486
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190405T100000Z
+DTEND:20190405T140000Z
+UID:48487--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48487
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T100000Z
+DTEND:20190412T140000Z
+UID:48488--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T100000Z
+DTEND:20190426T140000Z
+UID:48489--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48489
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T100000Z
+DTEND:20190503T140000Z
+UID:48490--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48490
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190510T100000Z
+DTEND:20190510T140000Z
+UID:48491--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48491
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190318T080000Z
+DTEND:20190318T130000Z
+UID:48582--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Data Management. BSDAMAN1KU\,
+  Pinar Tozun\, Programme: DS 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 48582
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190304T140000Z
+DTEND:20190304T180000Z
+UID:48617--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Network Analysis. BSNEANA1KU\, Luca 
+ Rossi\, Programme: DS 2nd year\,  Activity: Reexam - on premises
+LOCATION:Room: 4A54
+DESCRIPTION:ID 48617
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190129T150000Z
+DTEND:20190129T170000Z
+UID:48739--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48739
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T150000Z
+DTEND:20190205T170000Z
+UID:48740--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48740
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190212T150000Z
+DTEND:20190212T170000Z
+UID:48741--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48741
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T150000Z
+DTEND:20190219T170000Z
+UID:48742--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48742
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T150000Z
+DTEND:20190226T170000Z
+UID:48743--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48743
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190305T150000Z
+DTEND:20190305T170000Z
+UID:48744--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48744
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190312T150000Z
+DTEND:20190312T170000Z
+UID:48745--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48745
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190319T150000Z
+DTEND:20190319T170000Z
+UID:48746--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190326T150000Z
+DTEND:20190326T170000Z
+UID:48747--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48747
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T140000Z
+DTEND:20190402T160000Z
+UID:48748--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48748
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190409T140000Z
+DTEND:20190409T160000Z
+UID:48749--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48749
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190423T140000Z
+DTEND:20190423T160000Z
+UID:48750--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48750
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190430T140000Z
+DTEND:20190430T160000Z
+UID:48751--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48751
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T140000Z
+DTEND:20190507T160000Z
+UID:48752--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Study Assistance\, 
+ Programme: DS 1st year\, Programme: DS 2nd year
+LOCATION:Room: 3A50
+DESCRIPTION:ID 48752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190314T100000Z
+DTEND:20190314T113000Z
+UID:48818--425819232-0@timeedit.com
+DTSTAMP:20190301T214612Z
+LAST-MODIFIED:20190301T214612Z
+SUMMARY:Study Activity\,  : Machine Learning. BSMALEA1KU\,
+  Jes Frellesen\, Programme: DS 2nd year\,  Activity: Reexam
+LOCATION:Room: 2A18
+DESCRIPTION:ID 48818
+END:VEVENT
+END:VCALENDAR
