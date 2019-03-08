@@ -29,7 +29,7 @@ The rest of the repository's code and contents are distributed under the **MIT**
 - New animations more relevant for ITU
 - Feature to disable show of specific courses
 
-... A user is not participating in a course. The user can therefore remove the course from his course view, and all future course loads from the specific course file, will not display the removed course. The user can revert his actions from a new mobile view that showcases a listview ehere the study year and line with the removed course are items in it.
+⋅⋅⋅ A user is not participating in a course. The user can therefore remove the course from his course view, and all future course loads from the specific course file, will not display the removed course. The user can revert his actions from a new mobile view that showcases a listview ehere the study year and line with the removed course are items in it.
 - ~~Implement handling of data locally~~
 - ~~Update android ID?~~
 - ~~Update Play Store screenshots~~
