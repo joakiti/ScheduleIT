@@ -3,7 +3,7 @@
 
 
 
-The app was built with [Flutter](https://flutter.io/) it's available on [Android](x) and [iOS](y).
+The app was built with [Flutter](https://flutter.io/) it's available on [Android](https://play.google.com/store/apps/details?id=com.twodimensions.timeline1&hl=en) and [iOS](y).
 
 ## Usage
 
