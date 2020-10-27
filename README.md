@@ -1,5 +1,5 @@
 # ScheduleIT
-
+DEPRECATED - DOES NOT WORK ANYMORE
 
 
 
